@@ -7,6 +7,7 @@ Please submit a patch of you'd like to see a resource included here.
 ### Contents
 
 - [Command Line](#command-line)
+- [Ember.js](#emberjs)
 - [General](#general)
 - [Rails](#rails)
 - [Ruby](#ruby)
@@ -16,6 +17,10 @@ Please submit a patch of you'd like to see a resource included here.
 ### Command Line
 
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/)
+
+### Ember.js
+
+- [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
 
 ### General
 
