@@ -2,7 +2,7 @@
 
 This is a collection of free online resources I have found useful for learning.
 
-Please submit a patch of you'd like to see a resource included here.
+Please submit a patch if you'd like to see a resource included here.
 
 ### Contents
 
