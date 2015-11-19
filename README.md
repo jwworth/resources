@@ -20,6 +20,7 @@ Please submit a patch if you'd like to see a resource included here.
 
 ### Ember.js
 
+- [Ember Weekend Podcast](https://emberweekend.com/episodes)
 - [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
 
 ### General
