@@ -1,6 +1,6 @@
 # Resources
 
-This is a collection of free online resources I have found useful for learning.
+This is a collection of free online resources I have found useful for learning. It was inspired by Josh Branchaud's [Resources](https://github.com/jbranchaud/resources) and [Free Programming Books](https://github.com/vhf/free-programming-books).
 
 Please submit a patch if you'd like to see a resource included here.
 
