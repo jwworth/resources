@@ -11,6 +11,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [General](#general)
 - [Rails](#rails)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Vim](#vim)
 - [License](#license)
 
@@ -37,6 +38,10 @@ Please submit a patch if you'd like to see a resource included here.
 
 - [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
 - [Understanding Ruby Singleton Classes](http://www.devalot.com/articles/2008/09/ruby-singleton)
+
+### Rust
+
+- [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
 
 ### Vim
 
