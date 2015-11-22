@@ -10,6 +10,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [Ember.js](#emberjs)
 - [General](#general)
 - [Rails](#rails)
+- [Regex](#regex)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Vim](#vim)
@@ -33,6 +34,10 @@ Please submit a patch if you'd like to see a resource included here.
 - [A Handy Method to Share Data From Rails Controllers to Views Without Requiring Direct Instance Variable Access](http://jerodsanto.net/2012/12/a-handy-method-to-share-data-from-rails-controllers-to-views-without-requiring-direct-instance-variable-access/)
 - [Railscasts](http://railscasts.com/)
 - [This is Why Learning Rails is Hard](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)
+
+### Regex
+
+- [Rubular](http://rubular.com/)
 
 ### Ruby
 
