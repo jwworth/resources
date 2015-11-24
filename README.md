@@ -6,6 +6,7 @@ Please submit a patch if you'd like to see a resource included here.
 
 ### Contents
 
+- [C](#c)
 - [Command Line](#command-line)
 - [Ember.js](#emberjs)
 - [General](#general)
@@ -15,6 +16,13 @@ Please submit a patch if you'd like to see a resource included here.
 - [Rust](#rust)
 - [Vim](#vim)
 - [License](#license)
+
+### C
+
+- [Escape Sequences in C](http://en.wikipedia.org/wiki/Escape_sequences_in_C)
+- [Learn C The Hard Way](http://c.learncodethehardway.org/)
+- [Operators in C and C++](https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B)
+- [printf Format String](https://en.wikipedia.org/wiki/Printf_format_string)
 
 ### Command Line
 
