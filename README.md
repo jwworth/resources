@@ -19,6 +19,7 @@ Please submit a patch if you'd like to see a resource included here.
 
 ### C
 
+- [A Good Explanation of C Pointers](http://c.learncodethehardway.org/book/ex15.html)
 - [Escape Sequences in C](http://en.wikipedia.org/wiki/Escape_sequences_in_C)
 - [Learn C The Hard Way](http://c.learncodethehardway.org/)
 - [Operators in C and C++](https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B)
