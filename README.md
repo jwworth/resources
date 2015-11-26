@@ -11,6 +11,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [Ember.js](#emberjs)
 - [General](#general)
 - [Rails](#rails)
+- [Refactoring](#refactoring)
 - [Regex](#regex)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -46,6 +47,11 @@ Please submit a patch if you'd like to see a resource included here.
 - [Railscasts](http://railscasts.com/)
 - [This is Why Learning Rails is Hard](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)
 - [TIL #rails channel](http://til.hashrocket.com/rails)
+
+
+### Refactoring
+
+- [Extract Variable](http://refactoring.com/catalog/extractVariable.html)
 
 ### Regex
 
