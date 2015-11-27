@@ -52,6 +52,7 @@ Please submit a patch if you'd like to see a resource included here.
 ### Refactoring
 
 - [Extract Variable](http://refactoring.com/catalog/extractVariable.html)
+- [Replace Temp with Variable](http://www.refactoring.com/catalog/replaceTempWithQuery.html)
 
 ### Regex
 
