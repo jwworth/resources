@@ -61,6 +61,7 @@ Please submit a patch if you'd like to see a resource included here.
 
 ### Ruby
 
+- [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 - [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
 - [Understanding Ruby Singleton Classes](http://www.devalot.com/articles/2008/09/ruby-singleton)
 - [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
