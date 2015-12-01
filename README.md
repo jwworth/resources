@@ -40,6 +40,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [Codecademy](https://www.codecademy.com/)
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [Today I Learned](http://til.hashrocket.com/)
 
 ### Rails
