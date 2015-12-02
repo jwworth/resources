@@ -41,6 +41,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+- [Software Engineering Radio Podcast](http://www.se-radio.net/)
 - [Today I Learned](http://til.hashrocket.com/)
 
 ### Rails
