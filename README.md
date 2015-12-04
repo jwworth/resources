@@ -43,6 +43,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [Software Engineering Radio Podcast](http://www.se-radio.net/)
 - [Stack Overflow](http://stackoverflow.com/)
+- [The Hashrocket Blog](http://hashrocket.com/blog)
 - [Today I Learned](http://til.hashrocket.com/)
 
 ### Rails
