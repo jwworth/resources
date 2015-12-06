@@ -42,6 +42,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [Software Engineering Radio Podcast](http://www.se-radio.net/)
+- [Speaking.io](http://speaking.io/)
 - [Stack Overflow](http://stackoverflow.com/)
 - [The Bike Shed Podcast](http://bikeshed.fm/)
 - [The Hashrocket Blog](http://hashrocket.com/blog)
