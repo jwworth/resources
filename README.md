@@ -11,6 +11,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [Ember.js](#emberjs)
 - [General](#general)
 - [Rails](#rails)
+- [React.js](#reactjs)
 - [Refactoring](#refactoring)
 - [Regex](#regex)
 - [Ruby](#ruby)
@@ -55,6 +56,10 @@ Please submit a patch if you'd like to see a resource included here.
 - [This is Why Learning Rails is Hard](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)
 - [TIL #rails channel](http://til.hashrocket.com/rails)
 
+### React.js
+
+- [If-Else in JSX](https://facebook.github.io/react/tips/if-else-in-JSX.html)
+- [React Documentation](https://facebook.github.io/react/docs/getting-started.html)
 
 ### Refactoring
 
