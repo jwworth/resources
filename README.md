@@ -60,6 +60,7 @@ Please submit a patch if you'd like to see a resource included here.
 
 - [If-Else in JSX](https://facebook.github.io/react/tips/if-else-in-JSX.html)
 - [React Documentation](https://facebook.github.io/react/docs/getting-started.html)
+- [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 
 ### Refactoring
 
