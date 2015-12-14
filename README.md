@@ -7,6 +7,7 @@ Please submit a patch if you'd like to see a resource included here.
 ### Contents
 
 - [C](#c)
+- [Clojure](#clojure)
 - [Command Line](#command-line)
 - [Ember.js](#emberjs)
 - [General](#general)
@@ -26,6 +27,10 @@ Please submit a patch if you'd like to see a resource included here.
 - [Learn C The Hard Way](http://c.learncodethehardway.org/)
 - [Operators in C and C++](https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B)
 - [printf Format String](https://en.wikipedia.org/wiki/Printf_format_string)
+
+### Clojure
+
+- [Clojure Koans](https://github.com/functional-koans/clojure-koans)
 
 ### Command Line
 
