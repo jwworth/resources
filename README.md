@@ -84,6 +84,7 @@ Please submit a patch if you'd like to see a resource included here.
 - [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
 - [Ruby Documentation](http://ruby-doc.org/)
 - [Ruby Koans](http://www.rubykoans.com/)
+- [TIL #ruby channel](http://til.hashrocket.com/ruby)
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)
 - [Understanding Ruby Singleton Classes](http://www.devalot.com/articles/2008/09/ruby-singleton)
 - [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
