@@ -17,6 +17,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Regex](#regex)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SQL](#sql)
 - [Testing](#testing)
 - [Vim](#vim)
 - [License](#license)
@@ -94,6 +95,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### Rust
 
 - [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
+
+### SQL
+
+- [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
 
 ### Testing
 
