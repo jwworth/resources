@@ -51,6 +51,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+- [Semantic Versioning 2.0.0](http://semver.org/)
 - [Software Engineering Radio Podcast](http://www.se-radio.net/)
 - [Speaking.io](http://speaking.io/)
 - [Stack Overflow](http://stackoverflow.com/)
