@@ -60,6 +60,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [The Repository Pattern](https://msdn.microsoft.com/en-us/library/ff649690.aspx)
 - [Today I Learned](http://til.hashrocket.com/)
+- [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
 
 ### Rails
 
