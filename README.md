@@ -11,6 +11,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Command Line](#command-line)
 - [Ember.js](#emberjs)
 - [General](#general)
+- [Git](#git)
 - [Rails](#rails)
 - [React.js](#reactjs)
 - [Refactoring](#refactoring)
@@ -61,6 +62,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [The Repository Pattern](https://msdn.microsoft.com/en-us/library/ff649690.aspx)
 - [Today I Learned](http://til.hashrocket.com/)
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
+
+### Git
+
+- [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 ### Rails
 
