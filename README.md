@@ -21,6 +21,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SQL](#sql)
+- [TDD](#tdd)
 - [Testing](#testing)
 - [Vim](#vim)
 - [License](#license)
@@ -121,6 +122,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### SQL
 
 - [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
+
+### TDD
+
+- [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
 
 ### Testing
 
