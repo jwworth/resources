@@ -52,6 +52,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [Codecademy](https://www.codecademy.com/)
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
+- [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
