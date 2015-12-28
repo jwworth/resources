@@ -77,6 +77,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [Debugging Go programs with Delve](https://blog.gopheracademy.com/advent-2015/debugging-with-delve/)
 - [Go Is Not Good](https://github.com/ksimka/go-is-not-good/blob/master/README.md)
+- [Go Proverbs](http://go-proverbs.github.io/)
 
 ### Postgres
 
