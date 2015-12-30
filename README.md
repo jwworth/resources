@@ -13,6 +13,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [General](#general)
 - [Git](#git)
 - [Go](#go)
+- [JavaScript](#javascript)
 - [Postgres](#postgres)
 - [Rails](#rails)
 - [React.js](#reactjs)
@@ -79,6 +80,12 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Go Is Not Good](https://github.com/ksimka/go-is-not-good/blob/master/README.md)
 - [Go Proverbs](http://go-proverbs.github.io/)
 
+### JavaScript
+
+- [Inheritance Revisited](https://developer.mozilla.org/en/JavaScript/Guide/Inheritance_Revisited)
+- [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
+- [JavaScript The Right Way](http://www.jstherightway.org/)
+
 ### Postgres
 
 - [Postgres Documentation](http://www.postgresql.org/docs/current/static/index.html)
@@ -144,7 +151,6 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Vimchi Beginner's Vimrc](http://vimchi.com/beginners-vimrc.txt)
 - [Vimchi.com](http://github.com/jonallured/vimchi.com)
 - [Vimgolf](http://vimgolf.com)
-
 
 ### License
 
