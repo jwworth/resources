@@ -151,6 +151,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### Vim
 
+- [Converting Tabs to Spaces](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
 - [Hashrocket Dotmatrix](http://github.com/hashrocket/dotmatrix)
 - [TIL #vim channel](http://til.hashrocket.com/vim)
 - [Tim Pope's Github profile](http://github.com/tpope)
