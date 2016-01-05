@@ -14,6 +14,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Git](#git)
 - [Go](#go)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [Postgres](#postgres)
 - [Rails](#rails)
 - [React.js](#reactjs)
@@ -85,6 +86,13 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Inheritance Revisited](https://developer.mozilla.org/en/JavaScript/Guide/Inheritance_Revisited)
 - [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
 - [JavaScript The Right Way](http://www.jstherightway.org/)
+
+### Lua
+
+- [Local By Default](http://lua-users.org/wiki/LocalByDefault)
+- [Lua Documentation](http://www.lua.org/docs.html)
+- [Lua Wiki](http://lua-users.org/wiki/)
+- [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
 
 ### Postgres
 
