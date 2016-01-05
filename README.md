@@ -69,6 +69,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [The Repository Pattern](https://msdn.microsoft.com/en-us/library/ff649690.aspx)
 - [Today I Learned](http://til.hashrocket.com/)
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
+- [What is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 
 ### Git
 
