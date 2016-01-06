@@ -65,6 +65,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [The Bike Shed Podcast](http://bikeshed.fm/)
 - [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [The Hashrocket Blog](http://hashrocket.com/blog)
+- [The Iceberg Secret, Revealed](http://www.joelonsoftware.com/articles/fog0000000356.html)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [The Repository Pattern](https://msdn.microsoft.com/en-us/library/ff649690.aspx)
 - [Today I Learned](http://til.hashrocket.com/)
