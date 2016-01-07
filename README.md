@@ -91,6 +91,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### Lua
 
+- [Busted Documentation](http://olivinelabs.com/busted/)
 - [Global variables via \_G](http://www.wellho.net/resources/ex.php4?item=u112/globals)
 - [Local By Default](http://lua-users.org/wiki/LocalByDefault)
 - [Lua Documentation](http://www.lua.org/docs.html)
