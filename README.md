@@ -95,6 +95,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Global variables via \_G](http://www.wellho.net/resources/ex.php4?item=u112/globals)
 - [Local By Default](http://lua-users.org/wiki/LocalByDefault)
 - [Lua Documentation](http://www.lua.org/docs.html)
+- [Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
 - [Lua Wiki](http://lua-users.org/wiki/)
 - [Metatable Events](http://lua-users.org/wiki/MetatableEvents)
 - [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
