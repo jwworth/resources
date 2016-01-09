@@ -102,6 +102,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
 - [Tables Tutorial](http://lua-users.org/wiki/TablesTutorial)
 
+### MIDI
+
+- [SimpleSynth](#http://notahat.com/simplesynth/)
+
 ### Postgres
 
 - [Postgres Documentation](http://www.postgresql.org/docs/current/static/index.html)
