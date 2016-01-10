@@ -9,12 +9,14 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [C](#c)
 - [Clojure](#clojure)
 - [Command Line](#command-line)
+- [DevOps](#devops)
 - [Ember.js](#emberjs)
 - [General](#general)
 - [Git](#git)
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [MIDI](#midi)
 - [Postgres](#postgres)
 - [Rails](#rails)
 - [React.js](#reactjs)
@@ -44,6 +46,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### Command Line
 
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/)
+
+### DevOps
+
+- [Mina](http://mina-deploy.github.io/mina/)
 
 ### Ember.js
 
