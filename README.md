@@ -59,9 +59,11 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### General
 
 - [Codecademy](https://www.codecademy.com/)
+- [Domain Specific Language](http://martinfowler.com/bliki/DomainSpecificLanguage.html)
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
+- [Page Object](http://martinfowler.com/bliki/PageObject.html)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [Semantic Versioning 2.0.0](http://semver.org/)
