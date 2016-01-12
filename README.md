@@ -15,6 +15,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Git](#git)
 - [Go](#go)
 - [JavaScript](#javascript)
+- [Licensing](#licensing)
 - [Lua](#lua)
 - [MIDI](#midi)
 - [Postgres](#postgres)
@@ -97,6 +98,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Inheritance Revisited](https://developer.mozilla.org/en/JavaScript/Guide/Inheritance_Revisited)
 - [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
 - [JavaScript The Right Way](http://www.jstherightway.org/)
+
+### Licensing
+
+- [Choose A License](http://choosealicense.com/)
 
 ### Lua
 
