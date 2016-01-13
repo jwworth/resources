@@ -61,6 +61,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [Codecademy](https://www.codecademy.com/)
 - [Domain Specific Language](http://martinfowler.com/bliki/DomainSpecificLanguage.html)
+- [Expert in Earshot](http://c2.com/cgi/wiki?ExpertInEarshot)
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
