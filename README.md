@@ -43,6 +43,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [Clojure Documentation](http://clojure.org/documentation)
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans)
+- [Screencast: Clojure + vim basics](https://hashrocket.com/blog/posts/screencast-clojure-and-vim-basics)
 
 ### Command Line
 
