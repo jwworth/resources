@@ -44,6 +44,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### Clojure
 
 - [4 Clojure](http://www.braveclojure.com/)
+- [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 - [Clojure Documentation](http://clojure.org/documentation)
 - [Clojure From the Ground Up](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans)
