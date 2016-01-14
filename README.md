@@ -120,7 +120,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### MIDI
 
-- [SimpleSynth](#http://notahat.com/simplesynth/)
+- [SimpleSynth](http://notahat.com/simplesynth/)
 
 ### Postgres
 
