@@ -27,6 +27,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Rust](#rust)
 - [SQL](#sql)
 - [TDD](#tdd)
+- [Technical Writing](#technical-writing)
 - [Testing](#testing)
 - [Vim](#vim)
 - [License](#license)
@@ -172,6 +173,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### TDD
 
 - [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
+
+### Technical Writing
+
+- [Em Dash](http://www.thepunctuationguide.com/em-dash.html)
 
 ### Testing
 
