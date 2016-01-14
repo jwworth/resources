@@ -187,6 +187,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### Technical Writing
 
 - [Em Dash](http://www.thepunctuationguide.com/em-dash.html)
+- [Markdown-PDF](https://github.com/alanshaw/markdown-pdf)
 
 ### Testing
 
