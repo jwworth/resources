@@ -11,6 +11,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Command Line](#command-line)
 - [DevOps](#devops)
 - [Ember.js](#emberjs)
+- [Factor](#factor)
 - [General](#general)
 - [Git](#git)
 - [Go](#go)
@@ -61,6 +62,12 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [Ember Weekend Podcast](https://emberweekend.com/episodes)
 - [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
+
+### Factor
+
+- [Documentation](http://docs.factorcode.org/content/article-handbook.html)
+- [Official Site](http://factorcode.org/)
+- [Source Code](https://github.com/slavapestov/factor)
 
 ### General
 
