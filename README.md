@@ -68,6 +68,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### Factor
 
 - [Documentation](http://docs.factorcode.org/content/article-handbook.html)
+- [Factor Tutorial](http://andreaferretti.github.io/factor-tutorial/)
 - [Official Site](http://factorcode.org/)
 - [Source Code](https://github.com/slavapestov/factor)
 - [Vim Factor](https://github.com/brandonbloom/vim-factor)
