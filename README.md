@@ -114,6 +114,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### JavaScript
 
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Inheritance Revisited](https://developer.mozilla.org/en/JavaScript/Guide/Inheritance_Revisited)
 - [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
 - [JavaScript The Right Way](http://www.jstherightway.org/)
