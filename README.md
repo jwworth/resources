@@ -69,6 +69,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [Documentation](http://docs.factorcode.org/content/article-handbook.html)
 - [Factor Tutorial](http://andreaferretti.github.io/factor-tutorial/)
+- [Mailing List](http://concatenative.org/wiki/view/Factor/Mailing%20list)
 - [Official Site](http://factorcode.org/)
 - [Source Code](https://github.com/slavapestov/factor)
 - [Vim Factor](https://github.com/brandonbloom/vim-factor)
