@@ -28,6 +28,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SQL](#sql)
+- [Static Analysis](#static-analysis)
 - [TDD](#tdd)
 - [Technical Writing](#technical-writing)
 - [Testing](#testing)
@@ -193,6 +194,14 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### SQL
 
 - [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
+
+### Static Analysis
+
+- [bullet](https://github.com/flyerhzm/bullet)
+- [rails_best_practices](https://github.com/railsbp/rails_best_practices)
+- [rubocop](https://github.com/bbatsov/rubocop)
+- [sandi_meter](https://github.com/makaroni4/sandi_meter)
+- [simplecov](https://github.com/colszowka/simplecov)
 
 ### TDD
 
