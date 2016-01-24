@@ -10,6 +10,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Clojure](#clojure)
 - [Command Line](#command-line)
 - [DevOps](#devops)
+- [Elm](#elm)
 - [Ember.js](#emberjs)
 - [Factor](#factor)
 - [General](#general)
@@ -45,11 +46,11 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [4 Clojure](http://www.braveclojure.com/)
 - [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
-- [Clojure Documentation](http://clojure.org/documentation)
 - [Clojure From the Ground Up](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans)
 - [Clojure for the Brave and True](http://www.braveclojure.com/)
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+- [Official Documentation](http://clojure.org/documentation)
 - [Screencast: Clojure + vim basics](https://hashrocket.com/blog/posts/screencast-clojure-and-vim-basics)
 - [Vim Fireplace](https://github.com/tpope/vim-fireplace)
 
@@ -61,6 +62,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [Mina](http://mina-deploy.github.io/mina/)
 
+### Elm
+
+- [Official Documentation](http://elm-lang.org/docs)
+
 ### Ember.js
 
 - [Ember Weekend Podcast](https://emberweekend.com/episodes)
@@ -68,9 +73,9 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### Factor
 
-- [Documentation](http://docs.factorcode.org/content/article-handbook.html)
 - [Factor Tutorial](http://andreaferretti.github.io/factor-tutorial/)
 - [Mailing List](http://concatenative.org/wiki/view/Factor/Mailing%20list)
+- [Official Documentation](http://docs.factorcode.org/content/article-handbook.html)
 - [Official Site](http://factorcode.org/)
 - [Source Code](https://github.com/slavapestov/factor)
 - [Vim Factor](https://github.com/brandonbloom/vim-factor)
@@ -131,10 +136,10 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Busted Documentation](http://olivinelabs.com/busted/)
 - [Global variables via \_G](http://www.wellho.net/resources/ex.php4?item=u112/globals)
 - [Local By Default](http://lua-users.org/wiki/LocalByDefault)
-- [Lua Documentation](http://www.lua.org/docs.html)
 - [Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
 - [Lua Wiki](http://lua-users.org/wiki/)
 - [Metatable Events](http://lua-users.org/wiki/MetatableEvents)
+- [Official Documentation](http://www.lua.org/docs.html)
 - [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
 - [Tables Tutorial](http://lua-users.org/wiki/TablesTutorial)
 
@@ -144,7 +149,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### Postgres
 
-- [Postgres Documentation](http://www.postgresql.org/docs/current/static/index.html)
+- [Official Documentation](http://www.postgresql.org/docs/current/static/index.html)
 
 ### Rails
 
@@ -156,7 +161,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### React.js
 
 - [If-Else in JSX](https://facebook.github.io/react/tips/if-else-in-JSX.html)
-- [React Documentation](https://facebook.github.io/react/docs/getting-started.html)
+- [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)
 - [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 
 ### Refactoring
@@ -174,7 +179,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Codecademy Ruby](http://www.codecademy.com/tracks/ruby)
 - [For a Good Strftime](http://foragoodstrftime.com/)
 - [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
-- [Ruby Documentation](http://ruby-doc.org/)
+- [Official Documentation](http://ruby-doc.org/)
 - [Ruby Koans](http://www.rubykoans.com/)
 - [TIL #ruby channel](http://til.hashrocket.com/ruby)
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)
@@ -200,7 +205,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### Testing
 
-- [RSpec Documentation](https://relishapp.com/rspec)
+- [Rspec Documentation](https://relishapp.com/rspec)
 
 ### Vim
 
