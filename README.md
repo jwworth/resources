@@ -181,6 +181,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [For a Good Strftime](http://foragoodstrftime.com/)
 - [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
 - [Official Documentation](http://ruby-doc.org/)
+- [Ruby Conferences](http://rubyconferences.org/)
 - [Ruby Koans](http://www.rubykoans.com/)
 - [TIL #ruby channel](http://til.hashrocket.com/ruby)
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)
