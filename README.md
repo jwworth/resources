@@ -20,6 +20,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Licensing](#licensing)
 - [Lua](#lua)
 - [MIDI](#midi)
+- [Open Source](#open-source)
 - [Postgres](#postgres)
 - [Rails](#rails)
 - [React.js](#reactjs)
@@ -103,13 +104,11 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Speaking.io](http://speaking.io/)
 - [Stack Overflow](http://stackoverflow.com/)
 - [The Bike Shed Podcast](http://bikeshed.fm/)
-- [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [The Hashrocket Blog](http://hashrocket.com/blog)
 - [The Iceberg Secret, Revealed](http://www.joelonsoftware.com/articles/fog0000000356.html)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [The Repository Pattern](https://msdn.microsoft.com/en-us/library/ff649690.aspx)
 - [Today I Learned](http://til.hashrocket.com/)
-- [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
 - [What is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 
 ### Git
@@ -153,6 +152,12 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### MIDI
 
 - [SimpleSynth](http://notahat.com/simplesynth/)
+
+### Open Source
+
+- [How to be an Open Source Gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
+- [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+- [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
 
 ### Postgres
 
