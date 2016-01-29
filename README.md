@@ -66,7 +66,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### Elm
 
-- [Elm Signals](http://package.elm-lang.org/packages/elm-lang/core/3.0.0/Signal)
+- [Elm Packages](http://package.elm-lang.org/packages/elm-lang/core/3.0.0/)
 - [Elm-vim](https://github.com/ElmCast/elm-vim)
 - [Official Documentation](http://elm-lang.org/docs)
 - [Official Site](http://elm-lang.org/)
