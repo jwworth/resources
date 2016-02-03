@@ -73,6 +73,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Elm Packages](http://package.elm-lang.org/packages/elm-lang/core/3.0.0/)
 - [Elm-vim](https://github.com/ElmCast/elm-vim)
 - [Elm: Making the Web Functional](http://www.infoq.com/presentations/Elm)
+- [Github Elm-lang](https://github.com/elm-lang)
 - [Learn by Example](http://elm-lang.org/examples)
 - [Official Documentation](http://elm-lang.org/docs)
 - [Official Site](http://elm-lang.org/)
