@@ -1,8 +1,12 @@
 # Resources
 
-This is a collection of free online resources I have found useful for learning. It was inspired by Josh Branchaud's [Resources](https://github.com/jbranchaud/resources) and [Free Programming Books](https://github.com/vhf/free-programming-books).
+This is a collection of free online resources I have found useful for learning.
+It was inspired by Josh Branchaud's
+[Resources](https://github.com/jbranchaud/resources) and [Free Programming
+Books](https://github.com/vhf/free-programming-books).
 
-If you'd like to see a resource here, or find a broken link, please submit a PR.
+If you'd like to see a resource here, or find a broken link, please submit a
+PR.
 
 ### Contents
 
@@ -10,6 +14,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 - [Clojure](#clojure)
 - [Command Line](#command-line)
 - [DevOps](#devops)
+- [Elixir](#exilir)
 - [Elm](#elm)
 - [Ember.js](#emberjs)
 - [Factor](#factor)
@@ -63,6 +68,11 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### DevOps
 
 - [Mina](http://mina-deploy.github.io/mina/)
+
+### Elixir
+
+- [Erlang Downloads](http://www.erlang.org/downloads)
+- [Official Site](http://elixir-lang.org/)
 
 ### Elm
 
@@ -250,7 +260,4 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 ### License
 
-&copy; 2015 Jake Worth
-
-This repository is distributed under the MIT license. See `LICENSE` for
-details.
+This project is released under the [MIT License](http://www.opensource.org/licenses/MIT).
