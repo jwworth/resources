@@ -68,6 +68,8 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 
 - [Chicago Elm Meetup](http://www.meetup.com/chicago-elm/)
 - [Elm Blog](http://elm-lang.org/blog)
+- [Elm Discuss Google Group](https://groups.google.com/forum/#!forum/elm-discuss)
+- [Elm IRC](http://webchat.freenode.net/?channels=elm)
 - [Elm Packages](http://package.elm-lang.org/packages/elm-lang/core/3.0.0/)
 - [Elm-vim](https://github.com/ElmCast/elm-vim)
 - [Elm: Making the Web Functional](http://www.infoq.com/presentations/Elm)
