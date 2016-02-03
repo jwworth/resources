@@ -72,6 +72,7 @@ PR.
 ### Elixir
 
 - [Erlang Downloads](http://www.erlang.org/downloads)
+- [Official Documentation](http://elixir-lang.org/docs.html)
 - [Official Site](http://elixir-lang.org/)
 
 ### Elm
