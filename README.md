@@ -67,6 +67,7 @@ If you'd like to see a resource here, or find a broken link, please submit a PR.
 ### Elm
 
 - [Chicago Elm Meetup](http://www.meetup.com/chicago-elm/)
+- [Elm Blog](http://elm-lang.org/blog)
 - [Elm Packages](http://package.elm-lang.org/packages/elm-lang/core/3.0.0/)
 - [Elm-vim](https://github.com/ElmCast/elm-vim)
 - [Learn by Example](http://elm-lang.org/examples)
