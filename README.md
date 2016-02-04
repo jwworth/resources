@@ -71,9 +71,16 @@ PR.
 
 ### Elixir
 
+- [Elixir Lang Talk](https://groups.google.com/forum/#!forum/elixir-lang-talk)
+- [Elixir Slack](https://elixir-slackin.herokuapp.com/)
 - [Erlang Downloads](http://www.erlang.org/downloads)
+- [Introduction to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+- [Meetups](http://www.meetup.com/topics/elixir/)
 - [Official Documentation](http://elixir-lang.org/docs.html)
 - [Official Site](http://elixir-lang.org/)
+- [Source Code](https://github.com/elixir-lang/elixir)
+- [Twitter](https://twitter.com/elixirlang)
+- [Vim-elixir](https://github.com/elixir-lang/vim-elixir)
 
 ### Elm
 
