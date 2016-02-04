@@ -218,6 +218,7 @@ PR.
 - [Codecademy Ruby](http://www.codecademy.com/tracks/ruby)
 - [For a Good Strftime](http://foragoodstrftime.com/)
 - [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
+- [Meetups](http://www.meetup.com/topics/ruby/)
 - [Official Documentation](http://ruby-doc.org/)
 - [Ruby Conferences](http://rubyconferences.org/)
 - [Ruby Koans](http://www.rubykoans.com/)
