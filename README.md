@@ -107,6 +107,7 @@ PR.
 
 ### General
 
+- [CertificationCompetenceCorrelation](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
 - [Codecademy](https://www.codecademy.com/)
 - [Domain Specific Language](http://martinfowler.com/bliki/DomainSpecificLanguage.html)
 - [Expert in Earshot](http://c2.com/cgi/wiki?ExpertInEarshot)
