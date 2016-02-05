@@ -121,6 +121,7 @@ PR.
 
 - [CertificationCompetenceCorrelation](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
 - [Codecademy](https://www.codecademy.com/)
+- [Cornell Notes](http://coe.jmu.edu/learningtoolbox/cornellnotes.html)
 - [Domain Specific Language](http://martinfowler.com/bliki/DomainSpecificLanguage.html)
 - [Expert in Earshot](http://c2.com/cgi/wiki?ExpertInEarshot)
 - [Fledgling Languages List](http://fll.presidentbeef.com/)
