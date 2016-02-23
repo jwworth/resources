@@ -8,6 +8,8 @@ Books](https://github.com/vhf/free-programming-books).
 If you'd like to see a resource here, or find a broken link, please submit a
 PR.
 
+---
+
 ### Contents
 
 - [APIs](#apis)
@@ -41,6 +43,8 @@ PR.
 - [Testing](#testing)
 - [Vim](#vim)
 - [License](#license)
+
+---
 
 ### APIs
 
