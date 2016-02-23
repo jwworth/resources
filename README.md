@@ -255,6 +255,7 @@ PR.
 
 ### Technical Writing
 
+- [Do they deserve the gift of your keystrokes?](http://www.hanselman.com/blog/DoTheyDeserveTheGiftOfYourKeystrokes.aspx)
 - [Em Dash](http://www.thepunctuationguide.com/em-dash.html)
 - [Markdown-PDF](https://github.com/alanshaw/markdown-pdf)
 
