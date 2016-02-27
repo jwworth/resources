@@ -110,6 +110,7 @@ PR.
 ### Ember.js
 
 - [Ember Weekend Podcast](https://emberweekend.com/episodes)
+- [Official Site](http://emberjs.com/)
 - [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
 
 ### Factor
