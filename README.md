@@ -39,6 +39,7 @@ PR.
 - [SQL](#sql)
 - [Static Analysis](#static-analysis)
 - [TDD](#tdd)
+- [Teaching](#teaching)
 - [Technical Writing](#technical-writing)
 - [Testing](#testing)
 - [Vim](#vim)
@@ -257,6 +258,11 @@ PR.
 ### TDD
 
 - [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
+
+### Teaching
+
+- [Code Platoon TDD/Pair Programming Workshop](https://github.com/jwworth/code-platoon-workshop)
+- [Code Retreat Structure](http://coderetreat.org/facilitating/structure-of-a-coderetreat)
 
 ### Technical Writing
 
