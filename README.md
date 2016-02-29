@@ -69,6 +69,7 @@ PR.
 - [Debugging in Clojure](http://stackoverflow.com/questions/2352020/debugging-in-clojure/29368947)
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [Official Documentation](http://clojure.org/documentation)
+- [Rich Hickey Fanclub](https://github.com/tallesl/Rich-Hickey-fanclub)
 - [Screencast: Clojure + vim basics](https://hashrocket.com/blog/posts/screencast-clojure-and-vim-basics)
 - [Vim Fireplace](https://github.com/tpope/vim-fireplace)
 
