@@ -66,6 +66,7 @@ PR.
 - [Clojure From the Ground Up](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans)
 - [Clojure for the Brave and True](http://www.braveclojure.com/)
+- [Debugging in Clojure](http://stackoverflow.com/questions/2352020/debugging-in-clojure/29368947)
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [Official Documentation](http://clojure.org/documentation)
 - [Screencast: Clojure + vim basics](https://hashrocket.com/blog/posts/screencast-clojure-and-vim-basics)
