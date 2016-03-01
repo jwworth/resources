@@ -67,6 +67,7 @@ PR.
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans)
 - [Clojure for the Brave and True](http://www.braveclojure.com/)
 - [Debugging in Clojure](http://stackoverflow.com/questions/2352020/debugging-in-clojure/29368947)
+- [How to earn your Clojure white belt](https://medium.com/this-is-not-a-monad-tutorial/how-to-earn-your-clojure-white-belt-7e7db68a71e5#.h0bgfnrrs)
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [Official Documentation](http://clojure.org/documentation)
 - [Rich Hickey Fanclub](https://github.com/tallesl/Rich-Hickey-fanclub)
