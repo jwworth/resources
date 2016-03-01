@@ -12,38 +12,38 @@ PR.
 
 ### Contents
 
-- [APIs](#apis)
-- [C](#c)
-- [Clojure](#clojure)
-- [Command Line](#command-line)
-- [DevOps](#devops)
-- [Elixir](#exilir)
-- [Elm](#elm)
-- [Ember.js](#emberjs)
-- [Factor](#factor)
-- [General](#general)
-- [Git](#git)
-- [Go](#go)
-- [JavaScript](#javascript)
-- [Licensing](#licensing)
-- [Lua](#lua)
-- [MIDI](#midi)
-- [Open Source](#open-source)
-- [Postgres](#postgres)
-- [Rails](#rails)
-- [React.js](#reactjs)
-- [Refactoring](#refactoring)
-- [Regex](#regex)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [SQL](#sql)
-- [Static Analysis](#static-analysis)
-- [TDD](#tdd)
-- [Teaching](#teaching)
-- [Technical Writing](#technical-writing)
-- [Testing](#testing)
-- [Vim](#vim)
-- [License](#license)
+[APIs](#apis) |
+[C](#c) |
+[Clojure](#clojure) |
+[Command Line](#command-line) |
+[DevOps](#devops) |
+[Elixir](#exilir) |
+[Elm](#elm) |
+[Ember.js](#emberjs) |
+[Factor](#factor) |
+[General](#general) |
+[Git](#git) |
+[Go](#go) |
+[JavaScript](#javascript) |
+[Licensing](#licensing) |
+[Lua](#lua) |
+[MIDI](#midi) |
+[Open Source](#open-source) |
+[Postgres](#postgres) |
+[Rails](#rails) |
+[React.js](#reactjs) |
+[Refactoring](#refactoring) |
+[Regex](#regex) |
+[Ruby](#ruby) |
+[Rust](#rust) |
+[SQL](#sql) |
+[Static Analysis](#static-analysis) |
+[TDD](#tdd) |
+[Teaching](#teaching) |
+[Technical Writing](#technical-writing) |
+[Testing](#testing) |
+[Vim](#vim) |
+[License](#license)
 
 ---
 
