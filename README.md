@@ -25,6 +25,7 @@ PR.
 [Git](#git) |
 [Go](#go) |
 [JavaScript](#javascript) |
+[Julia](#julia) |
 [Licensing](#licensing) |
 [Lua](#lua) |
 [MIDI](#midi) |
@@ -165,6 +166,12 @@ PR.
 - [Debugging Go programs with Delve](https://blog.gopheracademy.com/advent-2015/debugging-with-delve/)
 - [Go Is Not Good](https://github.com/ksimka/go-is-not-good/blob/master/README.md)
 - [Go Proverbs](http://go-proverbs.github.io/)
+
+
+### Julia
+
+- [Downloads](http://julialang.org/downloads/)
+- [Official Documentation](http://docs.julialang.org)
 
 ### JavaScript
 
