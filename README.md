@@ -152,6 +152,7 @@ PR.
 - [The Repository Pattern](https://msdn.microsoft.com/en-us/library/ff649690.aspx)
 - [Today I Learned](http://til.hashrocket.com/)
 - [What is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
+- [r/dailyprogrammer on Reddit](https://www.reddit.com/r/dailyprogrammer)
 
 ### Git
 
