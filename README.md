@@ -172,6 +172,7 @@ PR.
 
 - [Downloads](http://julialang.org/downloads/)
 - [Official Documentation](http://docs.julialang.org)
+- [Why We Created Julia](http://julialang.org/blog/2012/02/why-we-created-julia)
 - [r/julia on Reddit](https://www.reddit.com/r/julia)
 
 ### JavaScript
