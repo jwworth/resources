@@ -172,6 +172,7 @@ PR.
 
 - [Downloads](http://julialang.org/downloads/)
 - [Official Documentation](http://docs.julialang.org)
+- [r/julia on Reddit](https://www.reddit.com/r/julia)
 
 ### JavaScript
 
