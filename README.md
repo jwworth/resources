@@ -29,6 +29,7 @@ PR.
 [Licensing](#licensing) |
 [Lua](#lua) |
 [MIDI](#midi) |
+[miniKanren](#minikanren) |
 [Open Source](#open-source) |
 [Postgres](#postgres) |
 [Rails](#rails) |
@@ -203,6 +204,13 @@ PR.
 ### MIDI
 
 - [SimpleSynth](http://notahat.com/simplesynth/)
+
+### miniKanren
+
+- [Official Site](http://minikanren.org/)
+- [miniKanren Github](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
+- [miniKanren Google Group](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
+- [miniKanren Twitter](https://twitter.com/miniKanren)
 
 ### Open Source
 
