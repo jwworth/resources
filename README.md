@@ -183,6 +183,7 @@ PR.
 - [Inheritance Revisited](https://developer.mozilla.org/en/JavaScript/Guide/Inheritance_Revisited)
 - [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
 - [JavaScript The Right Way](http://www.jstherightway.org/)
+- [SurviveJS](https://survivejs.com/)
 
 ### Licensing
 
