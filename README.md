@@ -262,6 +262,7 @@ PR.
 
 ### Rust
 
+- [Rocky Mountain Ruby 2015 - Rust for Rubyists by Steve Klabnik](https://www.youtube.com/watch?v=NaIXIKVxg3M)
 - [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
 
 ### SQL
