@@ -259,6 +259,7 @@ PR.
 - [TIL #ruby channel](http://til.hashrocket.com/ruby)
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)
 - [Understanding Ruby Singleton Classes](http://www.devalot.com/articles/2008/09/ruby-singleton)
+- [What it’s like to come back to a Ruby project after 6 months](http://devblog.avdi.org/2015/08/11/what-its-like-to-come-back-to-a-ruby-project-after-6-months/)
 - [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 
 ### Rust
