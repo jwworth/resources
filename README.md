@@ -226,9 +226,10 @@ PR.
 ### Rails
 
 - [A Handy Method to Share Data From Rails Controllers to Views Without Requiring Direct Instance Variable Access](http://jerodsanto.net/2012/12/a-handy-method-to-share-data-from-rails-controllers-to-views-without-requiring-direct-instance-variable-access/)
+- [Maintenance Policy for Ruby on Rails](http://guides.rubyonrails.org/maintenance_policy.html)
 - [Railscasts](http://railscasts.com/)
-- [This is Why Learning Rails is Hard](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)
 - [TIL #rails channel](http://til.hashrocket.com/rails)
+- [This is Why Learning Rails is Hard](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)
 
 ### React.js
 
