@@ -40,6 +40,7 @@ PR.
 [Rust](#rust) |
 [SQL](#sql) |
 [Static Analysis](#static-analysis) |
+[System Utilities](#system-utilities) |
 [TDD](#tdd) |
 [Teaching](#teaching) |
 [Technical Writing](#technical-writing) |
@@ -279,6 +280,10 @@ PR.
 - [rubocop](https://github.com/bbatsov/rubocop)
 - [sandi_meter](https://github.com/makaroni4/sandi_meter)
 - [simplecov](https://github.com/colszowka/simplecov)
+
+### System Utilities
+
+- [f.lux](https://justgetflux.com/)
 
 ### TDD
 
