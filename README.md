@@ -38,6 +38,7 @@ _165 resources and counting..._
 [Ruby](#ruby) |
 [Rust](#rust) |
 [SQL](#sql) |
+[Speaking](#speaking) |
 [Static Analysis](#static-analysis) |
 [System Utilities](#system-utilities) |
 [TDD](#tdd) |
@@ -144,7 +145,6 @@ _165 resources and counting..._
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [Semantic Versioning 2.0.0](http://semver.org/)
 - [Software Engineering Radio Podcast](http://www.se-radio.net/)
-- [Speaking.io](http://speaking.io/)
 - [Stack Overflow](http://stackoverflow.com/)
 - [The Bike Shed Podcast](http://bikeshed.fm/)
 - [The Hashrocket Blog](http://hashrocket.com/blog)
@@ -271,6 +271,11 @@ _165 resources and counting..._
 ### SQL
 
 - [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
+
+### Speaking
+
+- [Deckset](http://www.decksetapp.com/)
+- [Speaking.io](http://speaking.io/)
 
 ### Static Analysis
 
