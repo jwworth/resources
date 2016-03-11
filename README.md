@@ -5,8 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-If you'd like to see a resource here, or find a broken link, please submit a
-PR.
+_165 resources and counting..._
 
 ---
 
