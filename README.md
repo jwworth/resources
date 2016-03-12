@@ -5,7 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_166 resources and counting..._
+_167 resources and counting..._
 
 ---
 
@@ -309,6 +309,7 @@ _166 resources and counting..._
 ### Testing
 
 - [Rspec Documentation](https://relishapp.com/rspec)
+- [Understanding Rails test types in RSpec](https://www.youtube.com/watch?v=SOi_1reKn8M)
 
 ### Vim
 
