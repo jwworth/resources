@@ -5,7 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_165 resources and counting..._
+_166 resources and counting..._
 
 ---
 
@@ -271,6 +271,7 @@ _165 resources and counting..._
 ### SQL
 
 - [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
+- [TIL #sql channel](https://til.hashrocket.com/sql)
 
 ### Speaking
 
