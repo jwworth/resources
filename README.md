@@ -5,7 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_167 resources and counting..._
+_168 resources and counting..._
 
 ---
 
@@ -79,6 +79,7 @@ _167 resources and counting..._
 
 ### Command Line
 
+- [TIL #command-line channel](https://til.hashrocket.com/command-line)
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/)
 
 ### DevOps
@@ -228,7 +229,7 @@ _167 resources and counting..._
 - [A Handy Method to Share Data From Rails Controllers to Views Without Requiring Direct Instance Variable Access](http://jerodsanto.net/2012/12/a-handy-method-to-share-data-from-rails-controllers-to-views-without-requiring-direct-instance-variable-access/)
 - [Maintenance Policy for Ruby on Rails](http://guides.rubyonrails.org/maintenance_policy.html)
 - [Railscasts](http://railscasts.com/)
-- [TIL #rails channel](http://til.hashrocket.com/rails)
+- [TIL #rails channel](https://til.hashrocket.com/rails)
 - [This is Why Learning Rails is Hard](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)
 
 ### React.js
@@ -257,7 +258,7 @@ _167 resources and counting..._
 - [Official Documentation](http://ruby-doc.org/)
 - [Ruby Conferences](http://rubyconferences.org/)
 - [Ruby Koans](http://www.rubykoans.com/)
-- [TIL #ruby channel](http://til.hashrocket.com/ruby)
+- [TIL #ruby channel](https://til.hashrocket.com/ruby)
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)
 - [Understanding Ruby Singleton Classes](http://www.devalot.com/articles/2008/09/ruby-singleton)
 - [What it’s like to come back to a Ruby project after 6 months](http://devblog.avdi.org/2015/08/11/what-its-like-to-come-back-to-a-ruby-project-after-6-months/)
@@ -315,7 +316,7 @@ _167 resources and counting..._
 
 - [Converting Tabs to Spaces](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
 - [Hashrocket Dotmatrix](http://github.com/hashrocket/dotmatrix)
-- [TIL #vim channel](http://til.hashrocket.com/vim)
+- [TIL #vim channel](https://til.hashrocket.com/vim)
 - [Tim Pope's Github profile](http://github.com/tpope)
 - [Vim Adventures](http://vim-adventures.com)
 - [Vim.org](http://www.vim.org)
