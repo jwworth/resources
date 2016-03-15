@@ -234,6 +234,7 @@ _168 resources and counting..._
 
 ### React.js
 
+- [Classnames](https://github.com/JedWatson/classnames)
 - [If-Else in JSX](https://facebook.github.io/react/tips/if-else-in-JSX.html)
 - [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)
 - [React Primer Draft](https://github.com/mikechau/react-primer-draft)
