@@ -245,6 +245,7 @@ _176 resources and counting..._
 
 ### React.js
 
+- [Airbnb React Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - [Classnames](https://github.com/JedWatson/classnames)
 - [If-Else in JSX](https://facebook.github.io/react/tips/if-else-in-JSX.html)
 - [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)
