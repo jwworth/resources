@@ -142,6 +142,7 @@ _168 resources and counting..._
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
+- [Null References: The Billion Dollar Mistake](http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
 - [Page Object](http://martinfowler.com/bliki/PageObject.html)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
