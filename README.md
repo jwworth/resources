@@ -173,6 +173,7 @@ _168 resources and counting..._
 
 ### Idris
 
+- [Idris.vim](https://github.com/idris-hackers/idris-vim)
 - [Official Site](http://www.idris-lang.org/)
 
 ### Julia
