@@ -5,7 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_177 resources and counting..._
+_181 resources and counting..._
 
 ---
 
@@ -48,6 +48,7 @@ _177 resources and counting..._
 [Technical Writing](#technical-writing) |
 [Testing](#testing) |
 [Vim](#vim) |
+[Wireframing](#wireframing) |
 [License](#license)
 
 ---
@@ -342,6 +343,10 @@ _177 resources and counting..._
 - [Vimchi Beginner's Vimrc](http://vimchi.com/beginners-vimrc.txt)
 - [Vimchi.com](http://github.com/jonallured/vimchi.com)
 - [Vimgolf](http://vimgolf.com)
+
+### Wireframing
+
+- [Balsamiq](https://balsamiq.com/)
 
 ### License
 
