@@ -210,6 +210,7 @@ _168 resources and counting..._
 ### miniKanren
 
 - [Official Site](http://minikanren.org/)
+- [core.logic](https://clojure.github.io/core.logic/)
 - [miniKanren Github](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
 - [miniKanren Google Group](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
 - [miniKanren Twitter](https://twitter.com/miniKanren)
