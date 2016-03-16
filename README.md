@@ -5,13 +5,14 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_176 resources and counting..._
+_177 resources and counting..._
 
 ---
 
 ### Contents
 
 [APIs](#apis) |
+[Browsers](#browsers) |
 [C](#c) |
 [Clojure](#clojure) |
 [Command Line](#command-line) |
@@ -54,6 +55,10 @@ _176 resources and counting..._
 ### APIs
 
 - [Postman](https://www.getpostman.com/)
+
+### Browsers
+
+- [Can I Use \__?](http://caniuse.com/)
 
 ### C
 
