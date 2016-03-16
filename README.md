@@ -23,6 +23,7 @@ _168 resources and counting..._
 [General](#general) |
 [Git](#git) |
 [Go](#go) |
+[Idris](#idris) |
 [JavaScript](#javascript) |
 [Julia](#julia) |
 [Licensing](#licensing) |
@@ -170,6 +171,9 @@ _168 resources and counting..._
 - [Go Is Not Good](https://github.com/ksimka/go-is-not-good/blob/master/README.md)
 - [Go Proverbs](http://go-proverbs.github.io/)
 
+### Idris
+
+- [Official Site](http://www.idris-lang.org/)
 
 ### Julia
 
