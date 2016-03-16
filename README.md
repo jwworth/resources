@@ -175,6 +175,8 @@ _168 resources and counting..._
 
 ### Idris
 
+- [Documentation](http://www.idris-lang.org/documentation/)
+- [FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
 - [Idris.vim](https://github.com/idris-hackers/idris-vim)
 - [Official Site](http://www.idris-lang.org/)
 
