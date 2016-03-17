@@ -5,7 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_181 resources and counting..._
+_182 resources and counting..._
 
 ---
 
@@ -308,6 +308,7 @@ _181 resources and counting..._
 
 ### System Utilities
 
+- [Autojump](https://github.com/wting/autojump)
 - [Helium](http://heliumfloats.com/)
 - [f.lux](https://justgetflux.com/)
 
