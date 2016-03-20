@@ -5,7 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_183 resources and counting..._
+_184 resources and counting..._
 
 ---
 
@@ -256,6 +256,7 @@ _183 resources and counting..._
 - [If-Else in JSX](https://facebook.github.io/react/tips/if-else-in-JSX.html)
 - [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)
 - [React Primer Draft](https://github.com/mikechau/react-primer-draft)
+- [React Router](https://github.com/reactjs/react-router)
 - [React.js Conf 2016 Youtube Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 
 ### Refactoring
