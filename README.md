@@ -5,7 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_185 resources and counting..._
+_186 resources and counting..._
 
 ---
 
@@ -253,6 +253,7 @@ _185 resources and counting..._
 ### React.js
 
 - [Airbnb React Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+- [Awesome React](https://github.com/enaqx/awesome-react)
 - [Classnames](https://github.com/JedWatson/classnames)
 - [If-Else in JSX](https://facebook.github.io/react/tips/if-else-in-JSX.html)
 - [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)
