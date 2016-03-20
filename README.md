@@ -5,7 +5,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_184 resources and counting..._
+_185 resources and counting..._
 
 ---
 
@@ -201,6 +201,7 @@ _184 resources and counting..._
 - [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
 - [JavaScript The Right Way](http://www.jstherightway.org/)
 - [SurviveJS](https://survivejs.com/)
+- [Webpack](https://webpack.github.io/)
 
 ### Licensing
 
