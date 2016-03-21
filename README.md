@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_186 resources and counting..._
+_187 resources and counting..._
 
 ---
 
@@ -95,6 +95,7 @@ _186 resources and counting..._
 ### DevOps
 
 - [Mina](http://mina-deploy.github.io/mina/)
+- [Nginx](http://nginx.org/)
 
 ### Elixir
 
