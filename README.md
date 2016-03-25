@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_187 resources and counting..._
+_188 resources and counting..._
 
 ---
 
@@ -96,6 +96,7 @@ _187 resources and counting..._
 
 - [Mina](http://mina-deploy.github.io/mina/)
 - [Nginx](http://nginx.org/)
+- [Phusion Passenger](https://www.phusionpassenger.com/)
 
 ### Elixir
 
