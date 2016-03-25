@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_193 resources and counting..._
+_195 resources and counting..._
 
 ---
 
@@ -183,6 +183,7 @@ _193 resources and counting..._
 
 ### Go
 
+- [ChicagGoLang Meetup](http://www.meetup.com/chicagolang/)
 - [Debugging Go programs with Delve](https://blog.gopheracademy.com/advent-2015/debugging-with-delve/)
 - [Go Is Not Good](https://github.com/ksimka/go-is-not-good/blob/master/README.md)
 - [Go Proverbs](http://go-proverbs.github.io/)
@@ -362,6 +363,7 @@ _193 resources and counting..._
 - [TIL #vim channel](https://til.hashrocket.com/vim)
 - [Tim Pope's Github profile](http://github.com/tpope)
 - [Vim Adventures](http://vim-adventures.com)
+- [Vim Chicago Meetup](http://www.meetup.com/vim-chicago/)
 - [Vim.org](http://www.vim.org)
 - [Vimchi Beginner's Vimrc](http://vimchi.com/beginners-vimrc.txt)
 - [Vimchi.com](http://github.com/jonallured/vimchi.com)
