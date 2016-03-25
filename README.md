@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_191 resources and counting..._
+_193 resources and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _191 resources and counting..._
 [miniKanren](#minikanren) |
 [Open Source](#open-source) |
 [Postgres](#postgres) |
+[Project Management](#project-management) |
 [Rails](#rails) |
 [React.js](#reactjs) |
 [Refactoring](#refactoring) |
@@ -248,6 +249,11 @@ _191 resources and counting..._
 ### Postgres
 
 - [Official Documentation](http://www.postgresql.org/docs/current/static/index.html)
+
+### Project Management
+
+- [7 Step Agenda for an Effective Retrospective](https://www.thoughtworks.com/insights/blog/7-step-agenda-effective-retrospective)
+- [One Word](http://www.funretrospectives.com/one-word/)
 
 ### Rails
 
