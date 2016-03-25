@@ -167,7 +167,7 @@ _190 resources and counting..._
 - [The Iceberg Secret, Revealed](http://www.joelonsoftware.com/articles/fog0000000356.html)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [The Repository Pattern](https://msdn.microsoft.com/en-us/library/ff649690.aspx)
-- [Today I Learned](http://til.hashrocket.com/)
+- [Today I Learned](https://til.hashrocket.com/)
 - [What is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 - [r/dailyprogrammer on Reddit](https://www.reddit.com/r/dailyprogrammer)
 
