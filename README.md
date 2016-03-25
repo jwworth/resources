@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_188 resources and counting..._
+_189 resources and counting..._
 
 ---
 
@@ -50,6 +50,7 @@ _188 resources and counting..._
 [Teaching](#teaching) |
 [Technical Writing](#technical-writing) |
 [Testing](#testing) |
+[Touch Typing](#touch-typing) |
 [Vim](#vim) |
 [Wireframing](#wireframing) |
 [License](#license)
@@ -341,6 +342,10 @@ _188 resources and counting..._
 
 - [Rspec Documentation](https://relishapp.com/rspec)
 - [Understanding Rails test types in RSpec](https://www.youtube.com/watch?v=SOi_1reKn8M)
+
+### Touch Typing
+
+- [Typing Club](https://www.typingclub.com/)
 
 ### Vim
 
