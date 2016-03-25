@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_190 resources and counting..._
+_191 resources and counting..._
 
 ---
 
@@ -163,6 +163,7 @@ _190 resources and counting..._
 - [Software Engineering Radio Podcast](http://www.se-radio.net/)
 - [Stack Overflow](http://stackoverflow.com/)
 - [The Bike Shed Podcast](http://bikeshed.fm/)
+- [The Fourth Element of Effective Thinking: Follow the Flow of Ideas](https://www.youtube.com/watch?v=IkEZEpFU4m4&index=4&list=PLEo7ej2RhHszJy_77UXC8GJpb8LtW-dJT)
 - [The Hashrocket Blog](http://hashrocket.com/blog)
 - [The Iceberg Secret, Revealed](http://www.joelonsoftware.com/articles/fog0000000356.html)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
