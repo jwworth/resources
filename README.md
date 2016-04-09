@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_195 resources and counting..._
+_196 resources and counting..._
 
 ---
 
@@ -304,6 +304,7 @@ _195 resources and counting..._
 ### Rust
 
 - [Rocky Mountain Ruby 2015 - Rust for Rubyists by Steve Klabnik](https://www.youtube.com/watch?v=NaIXIKVxg3M)
+- [Rustlings](https://github.com/carols10cents/rustlings)
 - [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
 
 ### SQL
