@@ -303,6 +303,7 @@ _196 resources and counting..._
 
 ### Rust
 
+- [Cargo Guide](http://doc.crates.io/guide.html)
 - [Rocky Mountain Ruby 2015 - Rust for Rubyists by Steve Klabnik](https://www.youtube.com/watch?v=NaIXIKVxg3M)
 - [Rust IRC](https://client02.chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust)
 - [Rustlings](https://github.com/carols10cents/rustlings)
