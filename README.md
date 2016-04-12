@@ -304,6 +304,7 @@ _196 resources and counting..._
 ### Rust
 
 - [Rocky Mountain Ruby 2015 - Rust for Rubyists by Steve Klabnik](https://www.youtube.com/watch?v=NaIXIKVxg3M)
+- [Rust IRC](https://client02.chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust)
 - [Rustlings](https://github.com/carols10cents/rustlings)
 - [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
 
