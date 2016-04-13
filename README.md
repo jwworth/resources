@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_196 resources and counting..._
+_197 resources and counting..._
 
 ---
 
@@ -250,6 +250,7 @@ _196 resources and counting..._
 ### Postgres
 
 - [Official Documentation](http://www.postgresql.org/docs/current/static/index.html)
+- [What's New in PostgreSQL 9.5 with Jack Christensen](https://www.youtube.com/watch?v=oEhGfvoZdII)
 
 ### Project Management
 
