@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_197 resources and counting..._
+_200 resources and counting..._
 
 ---
 
@@ -364,6 +364,7 @@ _197 resources and counting..._
 
 - [Converting Tabs to Spaces](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
 - [Hashrocket Dotmatrix](http://github.com/hashrocket/dotmatrix)
+- [Project Specifc .vimrc](https://andrew.stwrt.ca/posts/project-specific-vimrc/)
 - [TIL #vim channel](https://til.hashrocket.com/vim)
 - [Tim Pope's Github profile](http://github.com/tpope)
 - [Vim Adventures](http://vim-adventures.com)
