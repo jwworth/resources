@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_200 resources and counting..._
+_201 resources and counting..._
 
 ---
 
@@ -348,6 +348,7 @@ _200 resources and counting..._
 - [Dillinger.io](http://dillinger.io/)
 - [Do they deserve the gift of your keystrokes?](http://www.hanselman.com/blog/DoTheyDeserveTheGiftOfYourKeystrokes.aspx)
 - [Em Dash](http://www.thepunctuationguide.com/em-dash.html)
+- [Just Good Copy](http://www.goodemailcopy.com/)
 - [Markdown-PDF](https://github.com/alanshaw/markdown-pdf)
 
 ### Testing
