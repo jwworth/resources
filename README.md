@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_201 resources and counting..._
+_202 resources and counting..._
 
 ---
 
@@ -161,6 +161,7 @@ _201 resources and counting..._
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [Semantic Versioning 2.0.0](http://semver.org/)
+- [Setosa](http://setosa.io/#/)
 - [Software Engineering Radio Podcast](http://www.se-radio.net/)
 - [Stack Overflow](http://stackoverflow.com/)
 - [The Bike Shed Podcast](http://bikeshed.fm/)
