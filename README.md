@@ -8,7 +8,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_202 resources and counting..._
+_203 resources and counting..._
 
 ---
 
@@ -255,6 +255,7 @@ _202 resources and counting..._
 
 ### Project Management
 
+- [15 Fundamental Laws of Software Development](http://www.exceptionnotfound.net/fundamental-laws-of-software-development/)
 - [7 Step Agenda for an Effective Retrospective](https://www.thoughtworks.com/insights/blog/7-step-agenda-effective-retrospective)
 - [One Word](http://www.funretrospectives.com/one-word/)
 
