@@ -10,7 +10,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_204 resources and counting..._
+_222 resources and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _204 resources and counting..._
 
 [APIs](#apis) |
 [Browsers](#browsers) |
+[Blogs](#blogs) |
 [C](#c) |
 [Clojure](#clojure) |
 [Command Line](#command-line) |
@@ -63,6 +64,27 @@ _204 resources and counting..._
 ### APIs
 
 - [Postman](https://www.getpostman.com/)
+
+### Blogs
+
+- [Adam Young's Web Log](http://adam.younglogic.com/)
+- [Blog - Sandi Metz](http://www.sandimetz.com/blog/)
+- [Coding Horror](http://blog.codinghorror.com/)
+- [Derek Parker](http://derkthedaring.com/)
+- [DevMynd](http://www.devmynd.com/)
+- [Extra Cheese](http://blog.extracheese.org/)
+- [Gray Soft](http://graysoftinc.com/)
+- [RubyFlow](http://www.rubyflow.com)
+- [RubySec](http://rubysec.com/)
+- [Scott Hanselman's Blog](http://www.hanselman.com/blog/)
+- [Signal vs. Noise](https://signalvnoise.com/posts)
+- [Simple Programmer](http://simpleprogrammer.com/)
+- [Virtuous Code](http://devblog.avdi.org/)
+- [Zach](Holman http://zachholman.com/)
+- [Zed A. Shaw](http://zedshaw.com/)
+- [eileen.codes](http://eileencodes.com/)
+- [searls](http://searls.testdouble.com)
+- [tbaggery](http://tbaggery.com/)
 
 ### Browsers
 
