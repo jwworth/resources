@@ -10,7 +10,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_222 resources and counting..._
+_223 resources and counting..._
 
 ---
 
@@ -323,6 +323,7 @@ _222 resources and counting..._
 - [Official Documentation](http://ruby-doc.org/)
 - [Ruby Conferences](http://rubyconferences.org/)
 - [Ruby Koans](http://www.rubykoans.com/)
+- [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 - [TIL #ruby channel](https://til.hashrocket.com/ruby)
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)
 - [Understanding Ruby Singleton Classes](http://www.devalot.com/articles/2008/09/ruby-singleton)
