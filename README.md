@@ -80,7 +80,7 @@ _223 resources and counting..._
 - [Signal vs. Noise](https://signalvnoise.com/posts)
 - [Simple Programmer](http://simpleprogrammer.com/)
 - [Virtuous Code](http://devblog.avdi.org/)
-- [Zach](Holman http://zachholman.com/)
+- [Zach Holman](http://zachholman.com/)
 - [Zed A. Shaw](http://zedshaw.com/)
 - [eileen.codes](http://eileencodes.com/)
 - [searls](http://searls.testdouble.com)
