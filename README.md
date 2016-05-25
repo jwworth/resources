@@ -203,7 +203,7 @@ _223 resources and counting..._
 
 - [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model)
-- [Hub](https://github.com/github/hub)
+- [Hub](https://hub.github.com/)
 - [Official Site](http://www.git-scm.com/)
 - [Remove Sensitive Data](https://help.github.com/articles/remove-sensitive-data/)
 
