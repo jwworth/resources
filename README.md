@@ -24,6 +24,7 @@ Books](https://github.com/vhf/free-programming-books).
 [Elixir](#exilir) |
 [Elm](#elm) |
 [Ember.js](#emberjs) |
+[Encryption](#encryption) |
 [Factor](#factor) |
 [General](#general) |
 [Git](#git) |
@@ -153,6 +154,11 @@ Books](https://github.com/vhf/free-programming-books).
 - [Online Editor](http://elm-lang.org/try)
 - [Twitter](https://twitter.com/elmlang)
 
+### Encryption
+
+- [Let's Encrypt](https://letsencrypt.org/)
+- [lego](https://github.com/xenolf/lego)
+
 ### Ember.js
 
 - [Ember Weekend Podcast](https://emberweekend.com/episodes)
@@ -239,6 +245,7 @@ Books](https://github.com/vhf/free-programming-books).
 ### Licensing
 
 - [Choose A License](http://choosealicense.com/)
+- [SPDX License List](http://spdx.org/licenses/)
 
 ### Lua
 
