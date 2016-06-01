@@ -10,8 +10,6 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
 Books](https://github.com/vhf/free-programming-books).
 
-_223 resources and counting..._
-
 ---
 
 ### Contents
