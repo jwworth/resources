@@ -373,6 +373,7 @@ Books](https://github.com/vhf/free-programming-books).
 ### TDD
 
 - [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
+- [Programming like god — the declarative paradigm](https://vimeo.com/131588133)
 
 ### Teaching
 
