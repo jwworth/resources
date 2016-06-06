@@ -262,6 +262,7 @@ Books](https://github.com/vhf/free-programming-books).
 
 ### MIDI
 
+- [Sonic Pi](http://sonic-pi.net/)
 - [SimpleSynth](http://notahat.com/simplesynth/)
 
 ### miniKanren
