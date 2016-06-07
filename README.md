@@ -15,6 +15,7 @@ Books](https://github.com/vhf/free-programming-books).
 ### Contents
 
 [APIs](#apis) |
+[Authentication](#authentication) |
 [Browsers](#browsers) |
 [Blogs](#blogs) |
 [C](#c) |
@@ -63,6 +64,10 @@ Books](https://github.com/vhf/free-programming-books).
 ### APIs
 
 - [Postman](https://www.getpostman.com/)
+
+### Authentication
+
+- [Authem](http://www.authem.org/)
 
 ### Blogs
 
