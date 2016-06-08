@@ -368,6 +368,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [rubocop](https://github.com/bbatsov/rubocop)
 - [sandi_meter](https://github.com/makaroni4/sandi_meter)
 - [simplecov](https://github.com/colszowka/simplecov)
+- [traceroute](https://github.com/amatsuda/traceroute)
 
 ### System Utilities
 
