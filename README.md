@@ -3,8 +3,8 @@
 > The expectations of life depend upon diligence; the mechanic that would
 > perfect his work must first sharpen his tools. —Confucius
 
-This is a collection of free online resources I have found useful for learning
-and building projects.
+This is a collection of free or affordable online resources I have found useful
+for learning and building projects.
 
 It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and [Free Programming
