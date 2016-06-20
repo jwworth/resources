@@ -393,6 +393,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Dillinger.io](http://dillinger.io/)
 - [Do they deserve the gift of your keystrokes?](http://www.hanselman.com/blog/DoTheyDeserveTheGiftOfYourKeystrokes.aspx)
 - [Em Dash](http://www.thepunctuationguide.com/em-dash.html)
+- [How to Write a Readme Worth Reading](https://www.ctl.io/developers/blog/post/how-to-write-a-readme-worth-reading)
 - [Just Good Copy](http://www.goodemailcopy.com/)
 - [Markdown-PDF](https://github.com/alanshaw/markdown-pdf)
 
