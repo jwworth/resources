@@ -185,6 +185,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [CertificationCompetenceCorrelation](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
 - [Codecademy](https://www.codecademy.com/)
 - [Cornell Notes](http://coe.jmu.edu/learningtoolbox/cornellnotes.html)
+- [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 - [Domain Specific Language](http://martinfowler.com/bliki/DomainSpecificLanguage.html)
 - [Expert in Earshot](http://c2.com/cgi/wiki?ExpertInEarshot)
 - [Fledgling Languages List](http://fll.presidentbeef.com/)
