@@ -216,8 +216,10 @@ Books](https://github.com/vhf/free-programming-books).
 
 - [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model)
+- [Git Documentation](https://git-scm.com/docs)
 - [Hub](https://hub.github.com/)
 - [Official Site](http://www.git-scm.com/)
+- [Pro Git](https://git-scm.com/book/en/v2)
 - [Remove Sensitive Data](https://help.github.com/articles/remove-sensitive-data/)
 
 ### Go
