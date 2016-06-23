@@ -293,6 +293,7 @@ Books](https://github.com/vhf/free-programming-books).
 ### Postgres
 
 - [Official Documentation](http://www.postgresql.org/docs/current/static/index.html)
+- [PG Casts](https://www.pgcasts.com)
 - [What's New in PostgreSQL 9.5 with Jack Christensen](https://www.youtube.com/watch?v=oEhGfvoZdII)
 
 ### Project Management
