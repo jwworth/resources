@@ -38,6 +38,7 @@ Books](https://github.com/vhf/free-programming-books).
 [MIDI](#midi) |
 [miniKanren](#minikanren) |
 [Open Source](#open-source) |
+[Podcasts](#podcasts) |
 [Postgres](#postgres) |
 [Project Management](#project-management) |
 [Rails](#rails) |
@@ -167,7 +168,6 @@ Books](https://github.com/vhf/free-programming-books).
 
 ### Ember.js
 
-- [Ember Weekend Podcast](https://emberweekend.com/episodes)
 - [Official Site](http://emberjs.com/)
 - [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
 
@@ -190,7 +190,6 @@ Books](https://github.com/vhf/free-programming-books).
 - [Expert in Earshot](http://c2.com/cgi/wiki?ExpertInEarshot)
 - [Fledgling Languages List](http://fll.presidentbeef.com/)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
-- [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [InfoQ](http://www.infoq.com/)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
@@ -201,9 +200,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [Semantic Versioning 2.0.0](http://semver.org/)
 - [Setosa](http://setosa.io/#/)
-- [Software Engineering Radio Podcast](http://www.se-radio.net/)
 - [Stack Overflow](http://stackoverflow.com/)
-- [The Bike Shed Podcast](http://bikeshed.fm/)
 - [The Fourth Element of Effective Thinking: Follow the Flow of Ideas](https://www.youtube.com/watch?v=IkEZEpFU4m4&index=4&list=PLEo7ej2RhHszJy_77UXC8GJpb8LtW-dJT)
 - [The Iceberg Secret, Revealed](http://www.joelonsoftware.com/articles/fog0000000356.html)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
@@ -289,6 +286,14 @@ Books](https://github.com/vhf/free-programming-books).
 - [How to be an Open Source Gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
+
+### Podcasts
+
+- [Ember Weekend Podcast](https://emberweekend.com/episodes)
+- [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm/)
+- [Programming Throwdown](http://www.programmingthrowdown.com/)
+- [Software Engineering Radio Podcast](http://www.se-radio.net/)
+- [The Bike Shed Podcast](http://bikeshed.fm/)
 
 ### Postgres
 
