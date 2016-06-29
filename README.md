@@ -26,6 +26,7 @@ Books](https://github.com/vhf/free-programming-books).
 [Elm](#elm) |
 [Ember.js](#emberjs) |
 [Encryption](#encryption) |
+[Erlang](#erlang) |
 [Factor](#factor) |
 [General](#general) |
 [Git](#git) |
@@ -166,6 +167,10 @@ Books](https://github.com/vhf/free-programming-books).
 
 - [Let's Encrypt](https://letsencrypt.org)
 - [lego](https://github.com/xenolf/lego)
+
+### Erlang
+
+- [Official Site](http://www.erlang.org)
 
 ### Ember.js
 
