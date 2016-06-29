@@ -170,6 +170,7 @@ Books](https://github.com/vhf/free-programming-books).
 
 ### Erlang
 
+- [Erlang History](https://github.com/ferd/erlang-history)
 - [Official Site](http://www.erlang.org)
 
 ### Ember.js
