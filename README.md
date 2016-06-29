@@ -136,6 +136,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elixir Lang Talk](https://groups.google.com/forum/#!forum/elixir-lang-talk)
 - [Elixir Slack](https://elixir-slackin.herokuapp.com)
+- [Elixir Slack](https://elixir-slackin.herokuapp.com)
 - [Erlang Downloads](http://www.erlang.org/downloads)
 - [Introduction to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 - [LearnElixir.tv](https://www.learnelixir.tv)
