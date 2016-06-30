@@ -137,6 +137,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Elixir Lang Talk](https://groups.google.com/forum/#!forum/elixir-lang-talk)
 - [Elixir Slack](https://elixir-slackin.herokuapp.com)
 - [Elixir Slack](https://elixir-slackin.herokuapp.com)
+- [Enum](http://elixir-lang.org/docs/stable/elixir/Enum.html)
 - [Erlang Downloads](http://www.erlang.org/downloads)
 - [Introduction to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 - [LearnElixir.tv](https://www.learnelixir.tv)
