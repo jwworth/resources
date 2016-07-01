@@ -294,6 +294,7 @@ Books](https://github.com/vhf/free-programming-books).
 
 ### Podcasts
 
+- [Developer Tea](http://spec.fm/podcasts/developer-tea)
 - [Ember Weekend Podcast](https://emberweekend.com/episodes)
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm)
 - [Programming Throwdown](http://www.programmingthrowdown.com)
