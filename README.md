@@ -134,10 +134,11 @@ Books](https://github.com/vhf/free-programming-books).
 ### Elixir
 
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+- [Elixir Enum](http://elixir-lang.org/docs/stable/elixir/Enum.html)
 - [Elixir Lang Talk](https://groups.google.com/forum/#!forum/elixir-lang-talk)
 - [Elixir Slack](https://elixir-slackin.herokuapp.com)
-- [Elixir Slack](https://elixir-slackin.herokuapp.com)
-- [Enum](http://elixir-lang.org/docs/stable/elixir/Enum.html)
+- [Elixir Stream](http://elixir-lang.org/docs/stable/elixir/Stream.html)
+- [Elxir for](http://elixir-lang.org/docs/stable/elixir/Kernel.SpecialForms.html#for/1)
 - [Erlang Downloads](http://www.erlang.org/downloads)
 - [Introduction to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 - [LearnElixir.tv](https://www.learnelixir.tv)
@@ -145,7 +146,6 @@ Books](https://github.com/vhf/free-programming-books).
 - [Official Documentation](http://elixir-lang.org/docs.html)
 - [Official Site](http://elixir-lang.org)
 - [Source Code](https://github.com/elixir-lang/elixir)
-- [Stream](http://elixir-lang.org/docs/stable/elixir/Stream.html)
 - [Twitter](https://twitter.com/elixirlang)
 - [Vim-elixir](https://github.com/elixir-lang/vim-elixir)
 
