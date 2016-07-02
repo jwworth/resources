@@ -317,6 +317,7 @@ Books](https://github.com/vhf/free-programming-books).
 ### Rails
 
 - [A Handy Method to Share Data From Rails Controllers to Views Without Requiring Direct Instance Variable Access](http://jerodsanto.net/2012/12/a-handy-method-to-share-data-from-rails-controllers-to-views-without-requiring-direct-instance-variable-access)
+- [AntiPattern: Messy Migrations](http://www.informit.com/articles/article.aspx?p=1652025)
 - [Maintenance Policy for Ruby on Rails](http://guides.rubyonrails.org/maintenance_policy.html)
 - [Rails Guides](http://guides.rubyonrails.org)
 - [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
