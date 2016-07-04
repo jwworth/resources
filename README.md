@@ -26,6 +26,7 @@ Books](https://github.com/vhf/free-programming-books).
 [Elm](#elm) |
 [Ember.js](#emberjs) |
 [Encryption](#encryption) |
+[Erlang](#erlang) |
 [Factor](#factor) |
 [General](#general) |
 [Git](#git) |
@@ -139,7 +140,6 @@ Books](https://github.com/vhf/free-programming-books).
 - [Elixir Slack](https://elixir-slackin.herokuapp.com)
 - [Elixir Stream](http://elixir-lang.org/docs/stable/elixir/Stream.html)
 - [Elxir for](http://elixir-lang.org/docs/stable/elixir/Kernel.SpecialForms.html#for/1)
-- [Erlang Downloads](http://www.erlang.org/downloads)
 - [Introduction to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 - [LearnElixir.tv](https://www.learnelixir.tv)
 - [Meetups](http://www.meetup.com/topics/elixir)
@@ -169,6 +169,12 @@ Books](https://github.com/vhf/free-programming-books).
 
 - [Let's Encrypt](https://letsencrypt.org)
 - [lego](https://github.com/xenolf/lego)
+
+### Erlang
+
+- [Erlang Downloads](http://www.erlang.org/downloads)
+- [Erlang History](https://github.com/ferd/erlang-history)
+- [Official Site](http://www.erlang.org)
 
 ### Ember.js
 
