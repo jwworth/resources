@@ -149,6 +149,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Elixir Enum](http://elixir-lang.org/docs/stable/elixir/Enum.html)
 - [Elixir Lang Talk](https://groups.google.com/forum/#!forum/elixir-lang-talk)
 - [Elixir Slack](https://elixir-slackin.herokuapp.com)
+- [Elixir Status](http://elixirstatus.com)
 - [Elixir Stream](http://elixir-lang.org/docs/stable/elixir/Stream.html)
 - [Elxir for](http://elixir-lang.org/docs/stable/elixir/Kernel.SpecialForms.html#for/1)
 - [Getting Started](http://elixir-lang.org/getting-started/introduction.html)
