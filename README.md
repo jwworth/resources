@@ -458,6 +458,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Tim Pope's Github profile](http://github.com/tpope)
 - [Vim Adventures](http://vim-adventures.com)
 - [Vim Chicago Meetup](http://www.meetup.com/vim-chicago)
+- [Vim Genius](http://vimgenius.com)
 - [Vim.org](http://www.vim.org)
 - [Vimchi Beginner's Vimrc](http://vimchi.com/beginners-vimrc.txt)
 - [Vimchi.com](http://github.com/jonallured/vimchi.com)
