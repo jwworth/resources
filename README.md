@@ -73,25 +73,36 @@ Books](https://github.com/vhf/free-programming-books).
 
 ### Blogs
 
-- [Adam Young's Web Log](http://adam.younglogic.com)
-- [Blog - Sandi Metz](http://www.sandimetz.com/blog)
-- [Coding Horror](http://blog.codinghorror.com)
-- [Derek Parker](http://derkthedaring.com)
-- [DevMynd](http://www.devmynd.com)
-- [Extra Cheese](http://blog.extracheese.org)
-- [Gray Soft](http://graysoftinc.com)
-- [RubyFlow](http://www.rubyflow.com)
-- [RubySec](http://rubysec.com)
-- [Scott Hanselman's Blog](http://www.hanselman.com/blog)
-- [Signal vs. Noise](https://signalvnoise.com/posts)
-- [Simple Programmer](http://simpleprogrammer.com)
-- [The Hashrocket Blog](http://hashrocket.com/blog)
-- [Virtuous Code](http://devblog.avdi.org)
-- [Zach Holman](http://zachholman.com)
-- [Zed A. Shaw](http://zedshaw.com)
-- [eileen.codes](http://eileencodes.com)
-- [searls](http://searls.testdouble.com)
-- [tbaggery](http://tbaggery.com)
+- http://adam.younglogic.com
+- http://blog.codinghorror.com
+- http://blog.extracheese.org
+- http://camerondaigle.com
+- http://code0100fun.com
+- http://derkthedaring.com
+- http://devblog.avdi.org
+- http://doriankarter.com
+- http://eileencodes.com
+- http://graysoftinc.com
+- http://hashrocket.com/blog
+- http://jonallured.com
+- http://joshbranchaud.com
+- http://joshuadavey.com
+- http://mattpolito.info
+- http://mrmicahcooper.com
+- http://rubysec.com
+- http://ryemason.com
+- http://searls.testdouble.com
+- http://simpleprogrammer.com
+- http://tbaggery.com
+- http://www.devmynd.com
+- http://www.dillonhafer.com
+- http://www.hanselman.com/blog
+- http://www.rubyflow.com
+- http://www.sandimetz.com/blog
+- http://zachholman.com
+- http://zedshaw.com
+- https://jackchristensen.com
+- https://signalvnoise.com/posts
 
 ### Browsers
 
