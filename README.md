@@ -224,6 +224,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)
 - [Josh Branchaud's Resources](https://github.com/jbranchaud/resources)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+- [Rule of Three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
 - [Semantic Versioning 2.0.0](http://semver.org)
 - [Setosa](http://setosa.io/#)
 - [Stack Overflow](http://stackoverflow.com)
