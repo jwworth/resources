@@ -94,6 +94,7 @@ Books](https://github.com/vhf/free-programming-books).
 - http://searls.testdouble.com
 - http://simpleprogrammer.com
 - http://tbaggery.com
+- http://www.danielariza.com
 - http://www.devmynd.com
 - http://www.dillonhafer.com
 - http://www.hanselman.com/blog
