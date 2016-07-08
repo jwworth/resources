@@ -421,6 +421,7 @@ Books](https://github.com/vhf/free-programming-books).
 
 - [Autojump](https://github.com/wting/autojump)
 - [Helium](http://heliumfloats.com)
+- [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
 - [f.lux](https://justgetflux.com)
 
 ### TDD
