@@ -382,6 +382,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Ruby Conferences](http://rubyconferences.org)
 - [Ruby Koans](http://www.rubykoans.com)
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+- [Ruby or Rails?](http://railshurts.com/quiz/)
 - [TIL #ruby channel](https://til.hashrocket.com/ruby)
 - [The Ruby Toolbox](https://www.ruby-toolbox.com)
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
