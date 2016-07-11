@@ -155,6 +155,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Elixir Wiki](https://github.com/elixir-lang/elixir/wiki)
 - [Elixir `for`](http://elixir-lang.org/docs/stable/elixir/Kernel.SpecialForms.html#for/1)
 - [Getting Started](http://elixir-lang.org/getting-started/introduction.html)
+- [Hex](https://hex.pm)
 - [Introduction to Mix](http://elixir-lang.org//mix-otp/introduction-to-mix.html)
 - [LearnElixir.tv](https://www.learnelixir.tv)
 - [Meetups](http://www.meetup.com/topics/elixir)
