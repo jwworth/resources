@@ -449,6 +449,7 @@ Books](https://github.com/vhf/free-programming-books).
 ### Testing
 
 - [A Case Against Cucumber](https://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html)
+- [RSpec Feature Spec](https://www.relishapp.com/rspec/rspec-rails/docs/feature-specs/feature-spec)
 - [Rspec Documentation](https://relishapp.com/rspec)
 - [Understanding Rails test types in RSpec](https://www.youtube.com/watch?v=SOi_1reKn8M)
 
