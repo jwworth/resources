@@ -52,7 +52,6 @@ Books](https://github.com/vhf/free-programming-books).
 [Speaking](#speaking) |
 [Static Analysis](#static-analysis) |
 [System Utilities](#system-utilities) |
-[TDD](#tdd) |
 [Teaching](#teaching) |
 [Technical Writing](#technical-writing) |
 [Testing](#testing) |
@@ -426,11 +425,6 @@ Books](https://github.com/vhf/free-programming-books).
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
 - [f.lux](https://justgetflux.com)
 
-### TDD
-
-- [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
-- [Programming like god — the declarative paradigm](https://vimeo.com/131588133)
-
 ### Teaching
 
 - [Code Platoon TDD/Pair Programming Workshop](https://github.com/jwworth/code-platoon-workshop)
@@ -449,6 +443,8 @@ Books](https://github.com/vhf/free-programming-books).
 ### Testing
 
 - [A Case Against Cucumber](https://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html)
+- [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
+- [Programming like god — the declarative paradigm](https://vimeo.com/131588133)
 - [RSpec Feature Spec](https://www.relishapp.com/rspec/rspec-rails/docs/feature-specs/feature-spec)
 - [Rspec Documentation](https://relishapp.com/rspec)
 - [Understanding Rails test types in RSpec](https://www.youtube.com/watch?v=SOi_1reKn8M)
