@@ -161,6 +161,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Official Documentation](http://elixir-lang.org/docs.html)
 - [Official Site](http://elixir-lang.org)
 - [Source Code](https://github.com/elixir-lang/elixir)
+- [Talks](https://github.com/elixir-lang/elixir/wiki/Talks)
 - [Twitter](https://twitter.com/elixirlang)
 - [Vim-elixir](https://github.com/elixir-lang/vim-elixir)
 
