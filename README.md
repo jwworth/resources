@@ -40,7 +40,7 @@ Books](https://github.com/vhf/free-programming-books).
 [miniKanren](#minikanren) |
 [Open Source](#open-source) |
 [Podcasts](#podcasts) |
-[Postgres](#postgres) |
+[PostgreSQL](#postgresql) |
 [Project Management](#project-management) |
 [Rails](#rails) |
 [React.js](#reactjs) |
@@ -324,7 +324,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Software Engineering Radio Podcast](http://www.se-radio.net)
 - [The Bike Shed Podcast](http://bikeshed.fm)
 
-### Postgres
+### PostgreSQL
 
 - [Official Documentation](http://www.postgresql.org/docs/current/static/index.html)
 - [PG Casts](https://www.pgcasts.com)
