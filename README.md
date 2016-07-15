@@ -212,6 +212,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Cornell Notes](http://coe.jmu.edu/learningtoolbox/cornellnotes.html)
 - [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 - [Domain Specific Language](http://martinfowler.com/bliki/DomainSpecificLanguage.html)
+- [Entry Level? This will help!](https://hashrocket.com/blog/posts/entry-level-this-will-help)
 - [Expert in Earshot](http://c2.com/cgi/wiki?ExpertInEarshot)
 - [Fledgling Languages List](http://fll.presidentbeef.com)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
