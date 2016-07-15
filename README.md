@@ -278,6 +278,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [JavaScript The Right Way](http://www.jstherightway.org)
 - [SurviveJS](https://survivejs.com)
 - [Webpack](https://webpack.github.io)
+- [What Do I Need to Know to Ace a JavaScript Interview?](https://github.com/adam-s/js-interview-review)
 
 ### Licensing
 
