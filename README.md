@@ -184,6 +184,7 @@ Books](https://github.com/vhf/free-programming-books).
 ### Encryption
 
 - [Let's Encrypt](https://letsencrypt.org)
+- [Practical Cryptography](http://www.practicalcryptography.com/)
 - [lego](https://github.com/xenolf/lego)
 
 ### Erlang
