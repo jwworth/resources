@@ -163,6 +163,7 @@ Books](https://github.com/vhf/free-programming-books).
 - [Source Code](https://github.com/elixir-lang/elixir)
 - [Talks](https://github.com/elixir-lang/elixir/wiki/Talks)
 - [Twitter](https://twitter.com/elixirlang)
+- [Using Functions in Elixir Guard Clauses](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
 - [Vim-elixir](https://github.com/elixir-lang/vim-elixir)
 
 ### Elm
