@@ -220,7 +220,6 @@ Books](https://github.com/vhf/free-programming-books).
 - [Fledgling Languages List](http://fll.presidentbeef.com)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [How I Start](https://howistart.org)
-- [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [InfoQ](http://www.infoq.com)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org)
 - [Josh Branchaud's Resources](https://github.com/jbranchaud/resources)
