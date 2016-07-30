@@ -40,6 +40,7 @@ Books](https://github.com/vhf/free-programming-books).
 [miniKanren](#minikanren) |
 [Open Source](#open-source) |
 [Podcasts](#podcasts) |
+[Polyglot Programming Challenges](#polyglot-programming-challenges) |
 [PostgreSQL](#postgresql) |
 [Project Management](#project-management) |
 [Rails](#rails) |
@@ -226,8 +227,6 @@ Books](https://github.com/vhf/free-programming-books).
 - [Null References: The Billion Dollar Mistake](http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
 - [Page Object](http://martinfowler.com/bliki/PageObject.html)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)
-- [Project Euler](https://projecteuler.net)
-- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [Rule of Three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
 - [Semantic Versioning 2.0.0](http://semver.org)
 - [Setosa](http://setosa.io/#)
@@ -239,7 +238,6 @@ Books](https://github.com/vhf/free-programming-books).
 - [Today I Learned](https://til.hashrocket.com)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
 - [What is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
-- [r/dailyprogrammer on Reddit](https://www.reddit.com/r/dailyprogrammer)
 
 ### Git
 
@@ -329,6 +327,13 @@ Books](https://github.com/vhf/free-programming-books).
 - [Programming Throwdown](http://www.programmingthrowdown.com)
 - [Software Engineering Radio Podcast](http://www.se-radio.net)
 - [The Bike Shed Podcast](http://bikeshed.fm)
+
+### Polyglot Programming Challenges
+
+- [Exercism.io](http://exercism.io)
+- [Project Euler](https://projecteuler.net)
+- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+- [r/dailyprogrammer on Reddit](https://www.reddit.com/r/dailyprogrammer)
 
 ### PostgreSQL
 
