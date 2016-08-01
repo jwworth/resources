@@ -145,6 +145,7 @@ Books](https://github.com/vhf/free-programming-books).
 
 ### Elixir
 
+- [#myelixirstatus](https://twitter.com/search?q=%23myelixirstatus)
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elixir Enum](http://elixir-lang.org/docs/stable/elixir/Enum.html)
 - [Elixir Lang Talk](https://groups.google.com/forum/#!forum/elixir-lang-talk)
