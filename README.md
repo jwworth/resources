@@ -7,8 +7,8 @@ This is a collection of free or affordable online resources I have found useful
 for learning and building projects.
 
 It was inspired by Josh Branchaud's
-[Resources](https://github.com/jbranchaud/resources) and [Free Programming
-Books](https://github.com/vhf/free-programming-books).
+[Resources](https://github.com/jbranchaud/resources) and Victor Felder's [Free
+Programming Books](https://github.com/vhf/free-programming-books).
 
 ---
 
