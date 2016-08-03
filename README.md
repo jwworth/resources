@@ -149,9 +149,11 @@ Books](https://github.com/vhf/free-programming-books).
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elixir Enum](http://elixir-lang.org/docs/stable/elixir/Enum.html)
 - [Elixir Lang Talk](https://groups.google.com/forum/#!forum/elixir-lang-talk)
+- [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 - [Elixir Slack](https://elixir-slackin.herokuapp.com)
 - [Elixir Status](http://elixirstatus.com)
 - [Elixir Stream](http://elixir-lang.org/docs/stable/elixir/Stream.html)
+- [Elixir Weekly](https://elixirweekly.net/subscribe)
 - [Elixir Wiki](https://github.com/elixir-lang/elixir/wiki)
 - [Elixir `for`](http://elixir-lang.org/docs/stable/elixir/Kernel.SpecialForms.html#for/1)
 - [Getting Started](http://elixir-lang.org/getting-started/introduction.html)
@@ -323,6 +325,7 @@ Books](https://github.com/vhf/free-programming-books).
 ### Podcasts
 
 - [Developer Tea](http://spec.fm/podcasts/developer-tea)
+- [Elixir Fountain](http://www.elixirfountain.com)
 - [Ember Weekend Podcast](https://emberweekend.com/episodes)
 - [Giant Robots Smashing into other Giant Robots Podcast](http://giantrobots.fm)
 - [Programming Throwdown](http://www.programmingthrowdown.com)
