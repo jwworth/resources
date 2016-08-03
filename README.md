@@ -31,6 +31,7 @@ Books](https://github.com/vhf/free-programming-books).
 [General](#general) |
 [Git](#git) |
 [Go](#go) |
+[HTML](#html) |
 [Idris](#idris) |
 [JavaScript](#javascript) |
 [Julia](#julia) |
@@ -259,6 +260,10 @@ Books](https://github.com/vhf/free-programming-books).
 - [Debugging Go programs with Delve](https://blog.gopheracademy.com/advent-2015/debugging-with-delve)
 - [Go Is Not Good](https://github.com/ksimka/go-is-not-good/blob/master/README.md)
 - [Go Proverbs](http://go-proverbs.github.io)
+
+### HTML
+
+- [List of XML and HTML Character Entity References](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 
 ### Idris
 
