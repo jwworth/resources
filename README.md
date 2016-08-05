@@ -239,6 +239,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 - [The Iceberg Secret, Revealed](http://www.joelonsoftware.com/articles/fog0000000356.html)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [The Repository Pattern](https://msdn.microsoft.com/en-us/library/ff649690.aspx)
+- [The traits of a proficient programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
 - [Today I Learned](https://til.hashrocket.com)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
 - [What is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
