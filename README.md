@@ -215,6 +215,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 
 ### General
 
+- [Air, Fuel & Ignition](https://spec.fm/podcasts/developer-tea/39377)
 - [CertificationCompetenceCorrelation](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
 - [Codecademy](https://www.codecademy.com)
 - [Cornell Notes](http://coe.jmu.edu/learningtoolbox/cornellnotes.html)
