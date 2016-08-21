@@ -325,6 +325,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 
 ### Open Source
 
+- [Exercism & Pull Requests](https://tinyletter.com/exercism/letters/exercism-pull-requests)
 - [How to be an Open Source Gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
