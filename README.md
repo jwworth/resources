@@ -447,6 +447,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 - [Autojump](https://github.com/wting/autojump)
 - [Helium](http://heliumfloats.com)
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
+- [Unused](https://unused.codes)
 - [f.lux](https://justgetflux.com)
 
 ### Teaching
