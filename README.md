@@ -363,6 +363,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 ### Rails
 
 - [A Handy Method to Share Data From Rails Controllers to Views Without Requiring Direct Instance Variable Access](http://jerodsanto.net/2012/12/a-handy-method-to-share-data-from-rails-controllers-to-views-without-requiring-direct-instance-variable-access)
+- [Always Check In Schema.Rb](http://www.saturnflyer.com/blog/jim/2010/09/14/always-check-in-schema-rb)
 - [AntiPattern: Messy Migrations](http://www.informit.com/articles/article.aspx?p=1652025)
 - [Kaminari](https://github.com/amatsuda/kaminari)
 - [Maintenance Policy for Ruby on Rails](http://guides.rubyonrails.org/maintenance_policy.html)
