@@ -229,6 +229,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 - [InfoQ](http://www.infoq.com)
 - [Josh Branchaud's Resources](https://github.com/jbranchaud/resources)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org)
+- [Mob Programming](https://en.wikipedia.org/wiki/Mob_programming)
 - [Null References: The Billion Dollar Mistake](http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
 - [Page Object](http://martinfowler.com/bliki/PageObject.html)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)
