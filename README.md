@@ -266,7 +266,9 @@ Programming Books](https://github.com/vhf/free-programming-books).
 
 ### HTML
 
+- [Linkchecker](https://wummel.github.io/linkchecker)
 - [List of XML and HTML Character Entity References](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+- [Placekitten](http://placekitten.com)
 
 ### Idris
 
