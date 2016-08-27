@@ -456,6 +456,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 
 ### Teaching
 
+- [Anki](http://ankisrs.net)
 - [Code Platoon TDD/Pair Programming Workshop](https://github.com/jwworth/code-platoon-workshop)
 - [Code Retreat Structure](http://coderetreat.org/facilitating/structure-of-a-coderetreat)
 
