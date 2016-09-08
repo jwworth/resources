@@ -255,6 +255,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 - [Official Site](http://www.git-scm.com)
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Remove Sensitive Data](https://help.github.com/articles/remove-sensitive-data)
+- [captainslog](https://rubygems.org/gems/captainslog)
 - [ghi](https://github.com/stephencelis/ghi)
 
 ### Go
