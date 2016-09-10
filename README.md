@@ -440,6 +440,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 
 ### Static Analysis
 
+- [LinkChecker](https://wummel.github.io/linkchecker)
 - [bullet](https://github.com/flyerhzm/bullet)
 - [rails_best_practices](https://github.com/railsbp/rails_best_practices)
 - [rubocop](https://github.com/bbatsov/rubocop)
