@@ -231,6 +231,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org)
 - [Mob Programming](https://en.wikipedia.org/wiki/Mob_programming)
 - [Null References: The Billion Dollar Mistake](http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
+- [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Page Object](http://martinfowler.com/bliki/PageObject.html)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)
 - [Rule of Three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
