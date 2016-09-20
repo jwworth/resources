@@ -475,6 +475,7 @@ Programming Books](https://github.com/vhf/free-programming-books).
 ### Testing
 
 - [A Case Against Cucumber](https://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html)
+- [Integration Testing with Page Objects](https://speakerdeck.com/dkarter/integration-testing-with-page-objects)
 - [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
 - [Programming like god — the declarative paradigm](https://vimeo.com/131588133)
 - [RSpec Feature Spec](https://www.relishapp.com/rspec/rspec-rails/docs/feature-specs/feature-spec)
