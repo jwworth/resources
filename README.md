@@ -18,8 +18,8 @@ _275 resources and counting..._
 
 [APIs](#apis) |
 [Authentication](#authentication) |
-[Browsers](#browsers) |
 [Blogs](#blogs) |
+[Browsers](#browsers) |
 [C](#c) |
 [Clojure](#clojure) |
 [Command Line](#command-line) |
@@ -40,7 +40,6 @@ _275 resources and counting..._
 [Licensing](#licensing) |
 [Lua](#lua) |
 [MIDI](#midi) |
-[miniKanren](#minikanren) |
 [Open Source](#open-source) |
 [Podcasts](#podcasts) |
 [Polyglot Programming Challenges](#polyglot-programming-challenges) |
@@ -62,6 +61,7 @@ _275 resources and counting..._
 [Touch Typing](#touch-typing) |
 [Vim](#vim) |
 [Wireframing](#wireframing) |
+[miniKanren](#minikanren) |
 [License](#license)
 
 ---
@@ -322,14 +322,6 @@ _275 resources and counting..._
 - [Sonic Pi](http://sonic-pi.net)
 - [SimpleSynth](http://notahat.com/simplesynth)
 
-### miniKanren
-
-- [Official Site](http://minikanren.org)
-- [core.logic](https://clojure.github.io/core.logic)
-- [miniKanren Github](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
-- [miniKanren Google Group](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
-- [miniKanren Twitter](https://twitter.com/miniKanren)
-
 ### Open Source
 
 - [Exercism & Pull Requests](https://tinyletter.com/exercism/letters/exercism-pull-requests)
@@ -509,6 +501,14 @@ _275 resources and counting..._
 ### Wireframing
 
 - [Balsamiq](https://balsamiq.com)
+
+### miniKanren
+
+- [Official Site](http://minikanren.org)
+- [core.logic](https://clojure.github.io/core.logic)
+- [miniKanren Github](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
+- [miniKanren Google Group](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
+- [miniKanren Twitter](https://twitter.com/miniKanren)
 
 ### License
 
