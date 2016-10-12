@@ -10,7 +10,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and Victor Felder's [Free
 Programming Books](https://github.com/vhf/free-programming-books).
 
-_274 resources and counting..._
+_275 resources and counting..._
 
 ---
 
@@ -455,6 +455,7 @@ _274 resources and counting..._
 
 - [Autojump](https://github.com/wting/autojump)
 - [Helium](http://heliumfloats.com)
+- [Pipe Board](https://github.com/dillonhafer/pipe-board)
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
 - [Unused](https://unused.codes)
 - [f.lux](https://justgetflux.com)
