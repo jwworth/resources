@@ -10,6 +10,12 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and Victor Felder's [Free
 Programming Books](https://github.com/vhf/free-programming-books).
 
+Every tool in this list has been tested, broken, and certified _cool_ by me.
+Every blog post and article has helped hone my skills and refine my taste as a
+growing developer.
+
+If you'd like your project included here, please contact me!
+
 _278 resources and counting..._
 
 ---
