@@ -10,7 +10,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and Victor Felder's [Free
 Programming Books](https://github.com/vhf/free-programming-books).
 
-_277 resources and counting..._
+_278 resources and counting..._
 
 ---
 
@@ -138,10 +138,11 @@ _277 resources and counting..._
 
 - [TIL #command-line channel](https://til.hashrocket.com/command-line)
 - [The Command Line Crash Course](http://cli.learncodethehardway.org)
+- [Thor](http://whatisthor.com)
 
 ### DevOps
 
-- [Jekyll](https://jekyllrb.com/)
+- [Jekyll](https://jekyllrb.com)
 - [Middleman](https://middlemanapp.com)
 - [Mina](http://mina-deploy.github.io/mina)
 - [Nginx](http://nginx.org)
