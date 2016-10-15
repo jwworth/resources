@@ -10,7 +10,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and Victor Felder's [Free
 Programming Books](https://github.com/vhf/free-programming-books).
 
-_276 resources and counting..._
+_277 resources and counting..._
 
 ---
 
@@ -141,6 +141,7 @@ _276 resources and counting..._
 
 ### DevOps
 
+- [Jekyll](https://jekyllrb.com/)
 - [Middleman](https://middlemanapp.com)
 - [Mina](http://mina-deploy.github.io/mina)
 - [Nginx](http://nginx.org)
