@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_281 resources and counting..._
+_282 resources and counting..._
 
 ---
 
@@ -180,6 +180,7 @@ _281 resources and counting..._
 - [Twitter](https://twitter.com/elixirlang)
 - [Using Functions in Elixir Guard Clauses](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
 - [Vim-elixir](https://github.com/elixir-lang/vim-elixir)
+- [Why I'm betting on Elixir](https://rossta.net/blog/why-i-am-betting-on-elixir.html)
 
 ### Elm
 
