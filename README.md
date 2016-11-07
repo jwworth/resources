@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_282 resources and counting..._
+_283 resources and counting..._
 
 ---
 
@@ -212,6 +212,7 @@ _282 resources and counting..._
 
 ### Ember.js
 
+- [Ember Igniter](https://emberigniter.com)
 - [Official Site](http://emberjs.com)
 - [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
