@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_283 resources and counting..._
+_284 resources and counting..._
 
 ---
 
@@ -485,6 +485,7 @@ _283 resources and counting..._
 
 - [A Case Against Cucumber](https://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html)
 - [Gold Master Testing](http://blog.codeclimate.com/blog/2014/02/20/gold-master-testing)
+- [Gold Master Testing](https://hashrocket.com/blog/posts/gold-master-testing)
 - [Integration Testing with Page Objects](https://speakerdeck.com/dkarter/integration-testing-with-page-objects)
 - [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
 - [Programming like god — the declarative paradigm](https://vimeo.com/131588133)
