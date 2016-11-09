@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_284 resources and counting..._
+_285 resources and counting..._
 
 ---
 
@@ -459,6 +459,7 @@ _284 resources and counting..._
 ### System Utilities
 
 - [Autojump](https://github.com/wting/autojump)
+- [Exhuberant Ctags](http://ctags.sourceforge.net)
 - [Helium](http://heliumfloats.com)
 - [Pipe Board](https://github.com/dillonhafer/pipe-board)
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
