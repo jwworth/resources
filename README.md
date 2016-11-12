@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_285 resources and counting..._
+_286 resources and counting..._
 
 ---
 
@@ -241,6 +241,7 @@ _285 resources and counting..._
 - [InfoQ](http://www.infoq.com)
 - [Josh Branchaud's Resources](https://github.com/jbranchaud/resources)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org)
+- [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org)
 - [Mob Programming](https://en.wikipedia.org/wiki/Mob_programming)
 - [Null References: The Billion Dollar Mistake](http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
