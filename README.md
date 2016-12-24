@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_286 resources and counting..._
+_289 resources and counting..._
 
 ---
 
@@ -444,8 +444,11 @@ _286 resources and counting..._
 
 ### Speaking
 
+- [Conference Prompts: Or How to Submit Proposals and Influence People](http://www.noelrappin.com/railsrx/2014/1/18/conference-prompts-or-how-to-submit-proposals-and-influence-people)
 - [Deckset](http://www.decksetapp.com)
 - [Speaking.io](http://speaking.io)
+- [What I learned from reading 429 conference proposals](http://www.noelrappin.com/railsrx/2014/3/17/what-i-learned-from-reading-429-conference-proposals)
+- [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing)
 
 ### Static Analysis
 
