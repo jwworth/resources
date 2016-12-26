@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_289 resources and counting..._
+_290 resources and counting..._
 
 ---
 
@@ -227,6 +227,7 @@ _289 resources and counting..._
 
 ### General
 
+- [Advice from an Old Programmer](https://learnrubythehardway.org/book/advice.html)
 - [Air, Fuel & Ignition](https://spec.fm/podcasts/developer-tea/39377)
 - [CertificationCompetenceCorrelation](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
 - [Codecademy](https://www.codecademy.com)
