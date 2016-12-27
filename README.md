@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_290 resources and counting..._
+_291 resources and counting..._
 
 ---
 
@@ -469,6 +469,7 @@ _290 resources and counting..._
 - [Pipe Board](https://github.com/dillonhafer/pipe-board)
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
 - [Unused](https://unused.codes)
+- [aText](https://trankynam.com/atext)
 - [f.lux](https://justgetflux.com)
 
 ### Teaching
