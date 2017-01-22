@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_292 resources and counting..._
+_293 resources and counting..._
 
 ---
 
@@ -241,6 +241,7 @@ _292 resources and counting..._
 - [How I Start](https://howistart.org)
 - [InfoQ](http://www.infoq.com)
 - [Josh Branchaud's Resources](https://github.com/jbranchaud/resources)
+- [Learn X in Y minutes](https://learnxinyminutes.com)
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org)
 - [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org)
 - [Mob Programming](https://en.wikipedia.org/wiki/Mob_programming)
