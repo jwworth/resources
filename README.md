@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_293 resources and counting..._
+_294 resources and counting..._
 
 ---
 
@@ -227,6 +227,7 @@ _293 resources and counting..._
 
 ### General
 
+- [@rstacruz's Cheatsheets](http://ricostacruz.com/cheatsheets)
 - [Advice from an Old Programmer](https://learnrubythehardway.org/book/advice.html)
 - [Air, Fuel & Ignition](https://spec.fm/podcasts/developer-tea/39377)
 - [CertificationCompetenceCorrelation](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
