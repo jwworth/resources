@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_294 resources and counting..._
+_296 resources and counting..._
 
 ---
 
@@ -450,6 +450,8 @@ _294 resources and counting..._
 
 - [Conference Prompts: Or How to Submit Proposals and Influence People](http://www.noelrappin.com/railsrx/2014/1/18/conference-prompts-or-how-to-submit-proposals-and-influence-people)
 - [Deckset](http://www.decksetapp.com)
+- [Fix Your Presentations: 21 Quick Tips](http://www.inc.com/geoffrey-james/how-to-fix-your-presentations-21-tips.html)
+- [Improve Your Presentations In Under $50](http://www.railstips.org/blog/archives/2010/05/05/improve-your-presentations-in-under-50/)
 - [Speaking.io](http://speaking.io)
 - [What I learned from reading 429 conference proposals](http://www.noelrappin.com/railsrx/2014/3/17/what-i-learned-from-reading-429-conference-proposals)
 - [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing)
