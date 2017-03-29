@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_296 resources and counting..._
+_306 resources and counting..._
 
 ---
 
@@ -496,14 +496,25 @@ _296 resources and counting..._
 ### Testing
 
 - [A Case Against Cucumber](https://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html)
+- [Change Code Without Fear](http://www.drdobbs.com/tools/change-code-without-fear/206105233)
+- [Characterization Test](http://wiki.c2.com/?CharacterizationTest)
 - [Gold Master Testing](http://blog.codeclimate.com/blog/2014/02/20/gold-master-testing)
+- [Gold Master Testing](http://blog.codeclimate.com/blog/2014/02/20/gold-master-testing/)
 - [Gold Master Testing](https://hashrocket.com/blog/posts/gold-master-testing)
+- [Gold Master Testing](https://hashrocket.com/blog/posts/gold-master-testing)
+- [How I run Legacy Code Retreat](http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html)
+- [How Not To Write Golden Master Tests](http://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests)
 - [Integration Testing with Page Objects](https://speakerdeck.com/dkarter/integration-testing-with-page-objects)
 - [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
 - [Programming like god — the declarative paradigm](https://vimeo.com/131588133)
 - [RSpec Feature Spec](https://www.relishapp.com/rspec/rspec-rails/docs/feature-specs/feature-spec)
-- [Rspec Documentation](https://relishapp.com/rspec)
+- [RSpec Documentation](https://relishapp.com/rspec)
+- [TestPyramid](https://martinfowler.com/bliki/TestPyramid.html)
 - [Understanding Rails test types in RSpec](https://www.youtube.com/watch?v=SOi_1reKn8M)
+- [Using the Golden Master technique to test legacy code](https://chrismelinn.wordpress.com/2013/04/12/using-the-golden-master-technique-to-test-legacy-code/)
+- [Working Effectively With Characterization Tests - Part 2](http://www.artima.com/weblogs/viewpost.jsp?thread=198674)
+- [Working Effectively With Characterization Tests](http://www.artima.com/weblogs/viewpost.jsp?thread=198296)
+
 
 ### Touch Typing
 
