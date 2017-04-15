@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_306 resources and counting..._
+_307 resources and counting..._
 
 ---
 
@@ -175,6 +175,7 @@ _306 resources and counting..._
 - [Meetups](http://www.meetup.com/topics/elixir)
 - [Official Documentation](http://elixir-lang.org/docs.html)
 - [Official Site](http://elixir-lang.org)
+- [Panel - Elixir vs. Ruby Fight - wroc_love.rb 2017](https://www.youtube.com/watch?v=O5dzsG5grK4)
 - [Source Code](https://github.com/elixir-lang/elixir)
 - [Talks](https://github.com/elixir-lang/elixir/wiki/Talks)
 - [Twitter](https://twitter.com/elixirlang)
