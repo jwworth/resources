@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_307 resources and counting..._
+_308 resources and counting..._
 
 ---
 
@@ -309,6 +309,7 @@ _307 resources and counting..._
 - [BabelJS REPL](http://babeljs.io/repl)
 - [Inheritance Revisited](https://developer.mozilla.org/en/JavaScript/Guide/Inheritance_Revisited)
 - [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
+- [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
 - [JavaScript The Right Way](http://www.jstherightway.org)
 - [SurviveJS](https://survivejs.com)
 - [Webpack](https://webpack.github.io)
