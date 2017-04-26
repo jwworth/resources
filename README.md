@@ -10,7 +10,7 @@ It was inspired by Josh Branchaud's
 [Resources](https://github.com/jbranchaud/resources) and Victor Felder's [Free
 Programming Books](https://github.com/vhf/free-programming-books).
 
-Every tool in this list has been tested, broken, and certified _cool_ by me.
+Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
