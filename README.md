@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_308 resources and counting..._
+_309 resources and counting..._
 
 ---
 
@@ -50,6 +50,7 @@ _308 resources and counting..._
 [Podcasts](#podcasts) |
 [Polyglot Programming Challenges](#polyglot-programming-challenges) |
 [PostgreSQL](#postgresql) |
+[Professional Development](#professional-development) |
 [Project Management](#project-management) |
 [Rails](#rails) |
 [React.js](#reactjs) |
@@ -369,6 +370,10 @@ _308 resources and counting..._
 - [PG Casts](https://www.pgcasts.com)
 - [Sample Databases](https://wiki.postgresql.org/wiki/Sample_Databases)
 - [What's New in PostgreSQL 9.5 with Jack Christensen](https://www.youtube.com/watch?v=oEhGfvoZdII)
+
+### Professional Development
+
+- [Searls-Briggs Type Indicator® Survey](http:/testdouble.com/salt): The only personality inventory designed specifically with programmers in mind. I'm a SALT.
 
 ### Project Management
 
