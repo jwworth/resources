@@ -16,7 +16,7 @@ growing developer.
 
 If you'd like your project included here, please contact me!
 
-_309 resources and counting..._
+_311 resources and counting..._
 
 ---
 
@@ -47,12 +47,13 @@ _309 resources and counting..._
 [Lua](#lua) |
 [MIDI](#midi) |
 [Open Source](#open-source) |
+[Phoenix](#phoenix) |
 [Podcasts](#podcasts) |
 [Polyglot Programming Challenges](#polyglot-programming-challenges) |
 [PostgreSQL](#postgresql) |
 [Professional Development](#professional-development) |
 [Project Management](#project-management) |
-[Rails](#rails) |
+[Ruby on Rails](#ruby-on-rails) |
 [React.js](#reactjs) |
 [Refactoring](#refactoring) |
 [Regex](#regex) |
@@ -347,6 +348,10 @@ _309 resources and counting..._
 - [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
 
+### Phoenix
+
+- [Create an RSS feed in Phoenix](https://janjiss.com/how-to-write-rss-feed-in-phoenix/)
+
 ### Podcasts
 
 - [Developer Tea](http://spec.fm/podcasts/developer-tea)
@@ -383,7 +388,7 @@ _309 resources and counting..._
 - [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 - [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
 
-### Rails
+### Ruby on Rails
 
 - [A Handy Method to Share Data From Rails Controllers to Views Without Requiring Direct Instance Variable Access](http://jerodsanto.net/2012/12/a-handy-method-to-share-data-from-rails-controllers-to-views-without-requiring-direct-instance-variable-access)
 - [Always Check In Schema.Rb](http://www.saturnflyer.com/blog/jim/2010/09/14/always-check-in-schema-rb)
@@ -395,6 +400,7 @@ _309 resources and counting..._
 - [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 - [Rails](https://github.com/rails/rails)
 - [Railscasts](http://railscasts.com)
+- [Sending Emails with ActionMailer and Sidekiq](https://gist.github.com/maxivak/690e6c353f65a86a4af9)
 - [TIL #rails channel](https://til.hashrocket.com/rails)
 - [This is Why Learning Rails is Hard](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)
 - [rails-dev-box](https://github.com/rails/rails-dev-box.git)
