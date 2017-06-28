@@ -14,8 +14,6 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-If you'd like your project included here, please contact me!
-
 _311 resources and counting..._
 
 ---
