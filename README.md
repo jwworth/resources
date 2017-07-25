@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_311 resources and counting..._
+_312 resources and counting..._
 
 ---
 
@@ -314,6 +314,7 @@ _311 resources and counting..._
 - [SurviveJS](https://survivejs.com)
 - [Webpack](https://webpack.github.io)
 - [What Do I Need to Know to Ace a JavaScript Interview?](https://github.com/adam-s/js-interview-review)
+- [Writing Prettier JavaScript in Vim](https://hashrocket.com/blog/posts/writing-prettier-javascript-in-vim)
 
 ### Licensing
 
