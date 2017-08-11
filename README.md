@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_312 resources and counting..._
+_310 resources and counting..._
 
 ---
 
@@ -510,10 +510,8 @@ _312 resources and counting..._
 - [A Case Against Cucumber](https://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html)
 - [Change Code Without Fear](http://www.drdobbs.com/tools/change-code-without-fear/206105233)
 - [Characterization Test](http://wiki.c2.com/?CharacterizationTest)
-- [Gold Master Testing](http://blog.codeclimate.com/blog/2014/02/20/gold-master-testing)
-- [Gold Master Testing](http://blog.codeclimate.com/blog/2014/02/20/gold-master-testing/)
-- [Gold Master Testing](https://hashrocket.com/blog/posts/gold-master-testing)
-- [Gold Master Testing](https://hashrocket.com/blog/posts/gold-master-testing)
+- [Gold Master Testing (Code Climate Blog)](http://blog.codeclimate.com/blog/2014/02/20/gold-master-testing)
+- [Gold Master Testing (Hashrocket Blog)](https://hashrocket.com/blog/posts/gold-master-testing)
 - [How I run Legacy Code Retreat](http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html)
 - [How Not To Write Golden Master Tests](http://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests)
 - [Integration Testing with Page Objects](https://speakerdeck.com/dkarter/integration-testing-with-page-objects)
