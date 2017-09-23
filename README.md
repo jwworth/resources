@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_310 resources and counting..._
+_311 resources and counting..._
 
 ---
 
@@ -488,6 +488,7 @@ _310 resources and counting..._
 - [Unused](https://unused.codes)
 - [aText](https://trankynam.com/atext)
 - [f.lux](https://justgetflux.com)
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
 ### Teaching
 
