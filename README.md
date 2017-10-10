@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_311 resources and counting..._
+_312 resources and counting..._
 
 ---
 
@@ -305,6 +305,7 @@ _311 resources and counting..._
 
 ### JavaScript
 
+- [A Cartoon Intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [BabelJS REPL](http://babeljs.io/repl)
 - [Inheritance Revisited](https://developer.mozilla.org/en/JavaScript/Guide/Inheritance_Revisited)
