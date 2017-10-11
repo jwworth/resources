@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_312 resources and counting..._
+_313 resources and counting..._
 
 ---
 
@@ -312,6 +312,7 @@ _312 resources and counting..._
 - [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
 - [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
 - [JavaScript The Right Way](http://www.jstherightway.org)
+- [Redux Official Documentation](http://redux.js.org/)
 - [SurviveJS](https://survivejs.com)
 - [Webpack](https://webpack.github.io)
 - [What Do I Need to Know to Ace a JavaScript Interview?](https://github.com/adam-s/js-interview-review)
