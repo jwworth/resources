@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_313 resources and counting..._
+_315 resources and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _313 resources and counting..._
 [Git](#git) |
 [Go](#go) |
 [HTML](#html) |
+[Hackathons](#hackathons}) |
 [Idris](#idris) |
 [JavaScript](#javascript) |
 [Julia](#julia) |
@@ -282,6 +283,11 @@ _313 resources and counting..._
 - [Debugging Go programs with Delve](https://blog.gopheracademy.com/advent-2015/debugging-with-delve)
 - [Go Is Not Good](https://github.com/ksimka/go-is-not-good/blob/master/README.md)
 - [Go Proverbs](http://go-proverbs.github.io)
+
+### Hackathons
+
+- [24 Pull Requests](https://24pullrequests.com/)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 ### HTML
 
