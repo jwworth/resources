@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_315 resources and counting..._
+_316 resources and counting..._
 
 ---
 
@@ -513,6 +513,7 @@ _315 resources and counting..._
 - [How to Write a Readme Worth Reading](https://www.ctl.io/developers/blog/post/how-to-write-a-readme-worth-reading)
 - [Just Good Copy](http://www.goodemailcopy.com)
 - [Markdown-PDF](https://github.com/alanshaw/markdown-pdf)
+- [Tips for Aspiring Op-Ed Writers](https://www.nytimes.com/2017/08/25/opinion/tips-for-aspiring-op-ed-writers.html)
 
 ### Testing
 
