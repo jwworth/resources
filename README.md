@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_316 resources and counting..._
+_317 resources and counting..._
 
 ---
 
@@ -149,6 +149,7 @@ _316 resources and counting..._
 
 ### DevOps
 
+- [Deploy a React App to S3 and CloudFront with AWS Mobile Hub](https://aws.amazon.com/blogs/mobile/deploy-a-react-app-to-s3-and-cloudfront-with-aws-mobile-hub/)
 - [Jekyll](https://jekyllrb.com)
 - [Middleman](https://middlemanapp.com)
 - [Mina](http://mina-deploy.github.io/mina)
