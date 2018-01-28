@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_317 resources and counting..._
+_318 resources and counting..._
 
 ---
 
@@ -472,6 +472,7 @@ _317 resources and counting..._
 - [Conference Prompts: Or How to Submit Proposals and Influence People](http://www.noelrappin.com/railsrx/2014/1/18/conference-prompts-or-how-to-submit-proposals-and-influence-people)
 - [Deckset](http://www.decksetapp.com)
 - [Fix Your Presentations: 21 Quick Tips](http://www.inc.com/geoffrey-james/how-to-fix-your-presentations-21-tips.html)
+- [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
 - [Improve Your Presentations In Under $50](http://www.railstips.org/blog/archives/2010/05/05/improve-your-presentations-in-under-50/)
 - [Speaking.io](http://speaking.io)
 - [What I learned from reading 429 conference proposals](http://www.noelrappin.com/railsrx/2014/3/17/what-i-learned-from-reading-429-conference-proposals)
