@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_318 resources and counting..._
+_319 resources and counting..._
 
 ---
 
@@ -34,6 +34,7 @@ _318 resources and counting..._
 [Encryption](#encryption) |
 [Erlang](#erlang) |
 [Factor](#factor) |
+[Flexbox](#flexbox) |
 [General](#general) |
 [Git](#git) |
 [Go](#go) |
@@ -227,6 +228,10 @@ _318 resources and counting..._
 - [Official Site](http://factorcode.org)
 - [Source Code](https://github.com/slavapestov/factor)
 - [Vim Factor](https://github.com/brandonbloom/vim-factor)
+
+### Flexbox
+
+- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 
 ### General
 
