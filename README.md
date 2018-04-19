@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_319 resources and counting..._
+_321 resources and counting..._
 
 ---
 
@@ -46,6 +46,7 @@ _319 resources and counting..._
 [Licensing](#licensing) |
 [Lua](#lua) |
 [MIDI](#midi) |
+[Meetups](#meetups) |
 [Open Source](#open-source) |
 [Phoenix](#phoenix) |
 [Podcasts](#podcasts) |
@@ -285,7 +286,6 @@ _319 resources and counting..._
 
 ### Go
 
-- [ChicagGoLang Meetup](http://www.meetup.com/chicagolang)
 - [Debugging Go programs with Delve](https://blog.gopheracademy.com/advent-2015/debugging-with-delve)
 - [Go Is Not Good](https://github.com/ksimka/go-is-not-good/blob/master/README.md)
 - [Go Proverbs](http://go-proverbs.github.io)
@@ -352,6 +352,11 @@ _319 resources and counting..._
 
 - [Sonic Pi](http://sonic-pi.net)
 - [SimpleSynth](http://notahat.com/simplesynth)
+
+### Meetups
+
+- [Meetup Organizer Guide](https://medium.com/meetup-organizer-guide)
+- [Meetup Pizza Calculator](http://stickielab.com/sandbox/pizza/)
 
 ### Open Source
 
@@ -423,6 +428,7 @@ _319 resources and counting..._
 - [Airbnb React Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Classnames](https://github.com/JedWatson/classnames)
+- [HTML to JSX Compiler](https://magic.reactjs.net/htmltojsx.htm)
 - [If-Else in JSX](https://facebook.github.io/react/tips/if-else-in-JSX.html)
 - [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)
 - [React Primer Draft](https://github.com/mikechau/react-primer-draft)
