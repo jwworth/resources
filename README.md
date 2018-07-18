@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_321 resources and counting..._
+_322 resources and counting..._
 
 ---
 
@@ -239,6 +239,7 @@ _321 resources and counting..._
 - [@rstacruz's Cheatsheets](http://ricostacruz.com/cheatsheets)
 - [Advice from an Old Programmer](https://learnrubythehardway.org/book/advice.html)
 - [Air, Fuel & Ignition](https://spec.fm/podcasts/developer-tea/39377)
+- [Atlassian Playbook](https://www.atlassian.com/team-playbook/plays)
 - [CertificationCompetenceCorrelation](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
 - [Codecademy](https://www.codecademy.com)
 - [Cornell Notes](http://coe.jmu.edu/learningtoolbox/cornellnotes.html)
