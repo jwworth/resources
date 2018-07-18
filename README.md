@@ -14,7 +14,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
-_322 resources and counting..._
+_323 resources and counting..._
 
 ---
 
@@ -444,6 +444,7 @@ _322 resources and counting..._
 ### Regex
 
 - [Regex101](https://regex101.com)
+- [Regular-Expressions.info](https://www.regular-expressions.info/)
 - [Rubular](http://rubular.com)
 
 ### Ruby
