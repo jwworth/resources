@@ -1,4 +1,65 @@
 # Resources
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+### Contents
+
+- [Introduction](#introduction)
+- [APIs](#apis)
+- [Authentication](#authentication)
+- [Blogs](#blogs)
+- [Browsers](#browsers)
+- [C](#c)
+- [Clojure](#clojure)
+- [Command Line](#command-line)
+- [DevOps](#devops)
+- [Elixir](#elixir)
+- [Elm](#elm)
+- [Encryption](#encryption)
+- [Erlang](#erlang)
+- [Ember.js](#emberjs)
+- [Factor](#factor)
+- [Flexbox](#flexbox)
+- [General](#general)
+- [Git](#git)
+- [Go](#go)
+- [Hackathons](#hackathons)
+- [HTML](#html)
+- [Idris](#idris)
+- [Julia](#julia)
+- [JavaScript](#javascript)
+- [Licensing](#licensing)
+- [Lua](#lua)
+- [MIDI](#midi)
+- [Meetups](#meetups)
+- [Open Source](#open-source)
+- [Phoenix](#phoenix)
+- [Podcasts](#podcasts)
+- [Polyglot Programming Challenges](#polyglot-programming-challenges)
+- [PostgreSQL](#postgresql)
+- [Professional Development](#professional-development)
+- [Project Management](#project-management)
+- [Ruby on Rails](#ruby-on-rails)
+- [React.js](#reactjs)
+- [Refactoring](#refactoring)
+- [Regex](#regex)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [SQL](#sql)
+- [Speaking](#speaking)
+- [Static Analysis](#static-analysis)
+- [System Utilities](#system-utilities)
+- [Teaching](#teaching)
+- [Technical Writing](#technical-writing)
+- [Testing](#testing)
+- [Touch Typing](#touch-typing)
+- [Vim](#vim)
+- [Wireframing](#wireframing)
+- [miniKanren](#minikanren)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+### Introduction
 
 > The expectations of life depend upon diligence; the mechanic that would
 > perfect his work must first sharpen his tools. —Confucius
@@ -15,65 +76,6 @@ Every blog post and article has helped hone my skills and refine my taste as a
 growing developer.
 
 _323 resources and counting..._
-
----
-
-### Contents
-
-[APIs](#apis) |
-[Authentication](#authentication) |
-[Blogs](#blogs) |
-[Browsers](#browsers) |
-[C](#c) |
-[Clojure](#clojure) |
-[Command Line](#command-line) |
-[DevOps](#devops) |
-[Elixir](#exilir) |
-[Elm](#elm) |
-[Ember.js](#emberjs) |
-[Encryption](#encryption) |
-[Erlang](#erlang) |
-[Factor](#factor) |
-[Flexbox](#flexbox) |
-[General](#general) |
-[Git](#git) |
-[Go](#go) |
-[HTML](#html) |
-[Hackathons](#hackathons}) |
-[Idris](#idris) |
-[JavaScript](#javascript) |
-[Julia](#julia) |
-[Licensing](#licensing) |
-[Lua](#lua) |
-[MIDI](#midi) |
-[Meetups](#meetups) |
-[Open Source](#open-source) |
-[Phoenix](#phoenix) |
-[Podcasts](#podcasts) |
-[Polyglot Programming Challenges](#polyglot-programming-challenges) |
-[PostgreSQL](#postgresql) |
-[Professional Development](#professional-development) |
-[Project Management](#project-management) |
-[Ruby on Rails](#ruby-on-rails) |
-[React.js](#reactjs) |
-[Refactoring](#refactoring) |
-[Regex](#regex) |
-[Ruby](#ruby) |
-[Rust](#rust) |
-[SQL](#sql) |
-[Speaking](#speaking) |
-[Static Analysis](#static-analysis) |
-[System Utilities](#system-utilities) |
-[Teaching](#teaching) |
-[Technical Writing](#technical-writing) |
-[Testing](#testing) |
-[Touch Typing](#touch-typing) |
-[Vim](#vim) |
-[Wireframing](#wireframing) |
-[miniKanren](#minikanren) |
-[License](#license)
-
----
 
 ### APIs
 
