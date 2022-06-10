@@ -57,6 +57,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 [SQL](#sql) |
 [Speaking](#speaking) |
 [Static Analysis](#static-analysis) |
+[System Design](#system-design) |
 [System Utilities](#system-utilities) |
 [Teaching](#teaching) |
 [Technical Writing](#technical-writing) |
@@ -467,6 +468,10 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 - [sandi_meter](https://github.com/makaroni4/sandi_meter)
 - [simplecov](https://github.com/colszowka/simplecov)
 - [traceroute](https://github.com/amatsuda/traceroute)
+
+### System Design
+
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### System Utilities
 
