@@ -12,14 +12,11 @@ Programming Books](https://github.com/vhf/free-programming-books).
 
 Every tool in this list has been tested, broken, and certified &#128293; by me.
 
-_321 resources and counting..._
-
 ---
 
 ### Contents
 
 [APIs](#apis) |
-[Authentication](#authentication) |
 [Blogs](#blogs) |
 [Browsers](#browsers) |
 [C](#c) |
@@ -46,7 +43,6 @@ _321 resources and counting..._
 [MIDI](#midi) |
 [Meetups](#meetups) |
 [Open Source](#open-source) |
-[Phoenix](#phoenix) |
 [Podcasts](#podcasts) |
 [Polyglot Programming Challenges](#polyglot-programming-challenges) |
 [PostgreSQL](#postgresql) |
@@ -77,18 +73,11 @@ _321 resources and counting..._
 
 - [Postman](https://www.getpostman.com)
 
-### Authentication
-
-- [Authem](http://www.authem.org)
-
 ### Blogs
 
 - http://adam.younglogic.com
 - http://blog.codinghorror.com
-- http://blog.extracheese.org
 - http://camerondaigle.com
-- http://code0100fun.com
-- http://derkthedaring.com
 - http://devblog.avdi.org
 - http://doriankarter.com
 - http://eileencodes.com
@@ -98,10 +87,8 @@ _321 resources and counting..._
 - http://joshbranchaud.com
 - http://joshuadavey.com
 - http://mattpolito.info
-- http://mrmicahcooper.com
 - http://rubysec.com
 - http://ryemason.com
-- http://searls.testdouble.com
 - http://simpleprogrammer.com
 - http://tbaggery.com
 - http://www.danielariza.com
@@ -129,7 +116,6 @@ _321 resources and counting..._
 
 ### Clojure
 
-- [4 Clojure](http://www.braveclojure.com)
 - [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 - [Clojure From the Ground Up](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans)
@@ -160,18 +146,14 @@ _321 resources and counting..._
 
 - [#myelixirstatus](https://twitter.com/search?q=%23myelixirstatus)
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
-- [Elixir Enum](http://elixir-lang.org/docs/stable/elixir/Enum.html)
 - [Elixir Lang Talk](https://groups.google.com/forum/#!forum/elixir-lang-talk)
 - [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 - [Elixir Slack](https://elixir-slackin.herokuapp.com)
 - [Elixir Status](http://elixirstatus.com)
-- [Elixir Stream](http://elixir-lang.org/docs/stable/elixir/Stream.html)
 - [Elixir Weekly](https://elixirweekly.net/subscribe)
 - [Elixir Wiki](https://github.com/elixir-lang/elixir/wiki)
-- [Elixir `for`](http://elixir-lang.org/docs/stable/elixir/Kernel.SpecialForms.html#for/1)
 - [Getting Started](http://elixir-lang.org/getting-started/introduction.html)
 - [Hex](https://hex.pm)
-- [Introduction to Mix](http://elixir-lang.org//mix-otp/introduction-to-mix.html)
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
 - [LearnElixir.tv](https://www.learnelixir.tv)
 - [Meetups](http://www.meetup.com/topics/elixir)
@@ -213,11 +195,10 @@ _321 resources and counting..._
 - [Erlang History](https://github.com/ferd/erlang-history)
 - [Official Site](http://www.erlang.org)
 
-### Ember.js
+### Ember
 
 - [Ember Igniter](https://emberigniter.com)
 - [Official Site](http://emberjs.com)
-- [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 ### Factor
 
@@ -244,13 +225,11 @@ _321 resources and counting..._
 - [Domain Specific Language](http://martinfowler.com/bliki/DomainSpecificLanguage.html)
 - [Entry Level? This will help!](https://hashrocket.com/blog/posts/entry-level-this-will-help)
 - [Expert in Earshot](http://c2.com/cgi/wiki?ExpertInEarshot)
-- [Fledgling Languages List](http://fll.presidentbeef.com)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [How I Start](https://howistart.org)
 - [InfoQ](http://www.infoq.com)
 - [Josh Branchaud's Resources](https://github.com/jbranchaud/resources)
 - [Learn X in Y minutes](https://learnxinyminutes.com)
-- [Manifesto for Agile Software Development](http://www.agilemanifesto.org)
 - [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org)
 - [Mob Programming](https://en.wikipedia.org/wiki/Mob_programming)
 - [Null References: The Billion Dollar Mistake](http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
@@ -278,7 +257,6 @@ _321 resources and counting..._
 - [Hub](https://hub.github.com)
 - [Official Site](http://www.git-scm.com)
 - [Pro Git](https://git-scm.com/book/en/v2)
-- [Remove Sensitive Data](https://help.github.com/articles/remove-sensitive-data)
 - [captainslog](https://rubygems.org/gems/captainslog)
 - [ghi](https://github.com/stephencelis/ghi)
 
@@ -301,7 +279,6 @@ _321 resources and counting..._
 
 ### Idris
 
-- [Documentation](http://www.idris-lang.org/documentation)
 - [FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
 - [Idris.vim](https://github.com/idris-hackers/idris-vim)
 - [Official Site](http://www.idris-lang.org)
@@ -315,7 +292,7 @@ _321 resources and counting..._
 
 ### JavaScript
 
-- [A Cartoon Intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
+- [A Cartoon Intro to Redux](https://code-cartoons.com/articles/a-cartoon-intro-to-redux/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [BabelJS REPL](http://babeljs.io/repl)
 - [Inheritance Revisited](https://developer.mozilla.org/en/JavaScript/Guide/Inheritance_Revisited)
@@ -325,7 +302,6 @@ _321 resources and counting..._
 - [Redux Official Documentation](http://redux.js.org/)
 - [SurviveJS](https://survivejs.com)
 - [Webpack](https://webpack.github.io)
-- [What Do I Need to Know to Ace a JavaScript Interview?](https://github.com/adam-s/js-interview-review)
 - [Writing Prettier JavaScript in Vim](https://hashrocket.com/blog/posts/writing-prettier-javascript-in-vim)
 
 ### Licensing
@@ -363,10 +339,6 @@ _321 resources and counting..._
 - [How to be an Open Source Gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
-
-### Phoenix
-
-- [Create an RSS feed in Phoenix](https://janjiss.com/how-to-write-rss-feed-in-phoenix/)
 
 ### Podcasts
 
@@ -407,7 +379,6 @@ _321 resources and counting..._
 ### Ruby on Rails
 
 - [A Handy Method to Share Data From Rails Controllers to Views Without Requiring Direct Instance Variable Access](http://jerodsanto.net/2012/12/a-handy-method-to-share-data-from-rails-controllers-to-views-without-requiring-direct-instance-variable-access)
-- [Always Check In Schema.Rb](http://www.saturnflyer.com/blog/jim/2010/09/14/always-check-in-schema-rb)
 - [AntiPattern: Messy Migrations](http://www.informit.com/articles/article.aspx?p=1652025)
 - [How to upgrade to Rails 5](https://hashrocket.com/blog/posts/how-to-upgrade-to-rails-5)
 - [Kaminari](https://github.com/amatsuda/kaminari)
@@ -461,7 +432,6 @@ _321 resources and counting..._
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 - [Understanding Ruby Singleton Classes](http://www.devalot.com/articles/2008/09/ruby-singleton)
 - [What it’s like to come back to a Ruby project after 6 months](http://devblog.avdi.org/2015/08/11/what-its-like-to-come-back-to-a-ruby-project-after-6-months)
-- [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide)
 
 ### Rust
 
@@ -536,7 +506,6 @@ _321 resources and counting..._
 - [How I run Legacy Code Retreat](http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html)
 - [How Not To Write Golden Master Tests](http://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests)
 - [Integration Testing with Page Objects](https://speakerdeck.com/dkarter/integration-testing-with-page-objects)
-- [Jim Weirich - Roman Numerals Kata](https://www.youtube.com/watch?v=983zk0eqYLY)
 - [Programming like god — the declarative paradigm](https://vimeo.com/131588133)
 - [RSpec Feature Spec](https://www.relishapp.com/rspec/rspec-rails/docs/feature-specs/feature-spec)
 - [RSpec Documentation](https://relishapp.com/rspec)
@@ -574,7 +543,6 @@ _321 resources and counting..._
 ### miniKanren
 
 - [Official Site](http://minikanren.org)
-- [core.logic](https://clojure.github.io/core.logic)
 - [miniKanren Github](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
 - [miniKanren Google Group](https://groups.google.com/forum/?fromgroups=#!forum/minikanren)
 - [miniKanren Twitter](https://twitter.com/miniKanren)
