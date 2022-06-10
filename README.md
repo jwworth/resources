@@ -11,8 +11,6 @@ It was inspired by Josh Branchaud's
 Programming Books](https://github.com/vhf/free-programming-books).
 
 Every tool in this list has been tested, broken, and certified &#128293; by me.
-Every blog post and article has helped hone my skills and refine my taste as a
-growing developer.
 
 _321 resources and counting..._
 
