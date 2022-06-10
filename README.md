@@ -156,7 +156,6 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 - [Hex](https://hex.pm)
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
 - [LearnElixir.tv](https://www.learnelixir.tv)
-- [Meetups](http://www.meetup.com/topics/elixir)
 - [Official Documentation](http://elixir-lang.org/docs.html)
 - [Official Site](http://elixir-lang.org)
 - [Panel - Elixir vs. Ruby Fight - wroc_love.rb 2017](https://www.youtube.com/watch?v=O5dzsG5grK4)
@@ -169,7 +168,6 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 
 ### Elm
 
-- [Chicago Elm Meetup](http://www.meetup.com/chicago-elm)
 - [Elm Blog](http://elm-lang.org/blog)
 - [Elm Discuss Google Group](https://groups.google.com/forum/#!forum/elm-discuss)
 - [Elm IRC](http://webchat.freenode.net/?channels=elm)
@@ -329,8 +327,12 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 
 ### Meetups
 
+- [Chicago Elm Meetup](http://www.meetup.com/chicago-elm)
+- [Elixir Meetups](http://www.meetup.com/topics/elixir)
 - [Meetup Organizer Guide](https://medium.com/meetup-organizer-guide)
 - [Meetup Pizza Calculator](http://stickielab.com/sandbox/pizza/)
+- [Ruby Meetups](http://www.meetup.com/topics/ruby)
+- [Vim Chicago Meetup](http://www.meetup.com/vim-chicago)
 
 ### Open Source
 
@@ -420,7 +422,6 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 - [Codecademy Ruby](http://www.codecademy.com/tracks/ruby)
 - [For a Good Strftime](http://foragoodstrftime.com)
 - [Learn Ruby The Hard Way](http://learnrubythehardway.org)
-- [Meetups](http://www.meetup.com/topics/ruby)
 - [Official Documentation](http://ruby-doc.org)
 - [Ruby Conferences](http://rubyconferences.org)
 - [Ruby Koans](http://www.rubykoans.com)
@@ -529,7 +530,6 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 - [TIL #vim channel](https://til.hashrocket.com/vim)
 - [Tim Pope's Github profile](http://github.com/tpope)
 - [Vim Adventures](http://vim-adventures.com)
-- [Vim Chicago Meetup](http://www.meetup.com/vim-chicago)
 - [Vim Genius](http://vimgenius.com)
 - [Vim.org](http://www.vim.org)
 - [Vimchi Beginner's Vimrc](http://vimchi.com/beginners-vimrc.txt)
