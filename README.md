@@ -477,12 +477,7 @@ Every tool in this list has been tested, broken, and certified &#128293; by me.
 
 - [Autojump](https://github.com/wting/autojump)
 - [Exhuberant Ctags](http://ctags.sourceforge.net)
-- [Helium](http://heliumfloats.com)
-- [Pipe Board](https://github.com/dillonhafer/pipe-board)
-- [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
 - [Unused](https://unused.codes)
-- [aText](https://trankynam.com/atext)
-- [f.lux](https://justgetflux.com)
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
 ### Teaching
